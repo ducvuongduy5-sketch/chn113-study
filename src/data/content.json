@@ -12409,6 +12409,546 @@
         "page": 12
       },
       "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-2",
+      "title": "Ôn tập tranh · Tranh 1: Bạn học",
+      "image": "/chn113-study/learning-assets/hoa/speaking-2.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这里有五个人。",
+          "zhè lǐ yǒu wǔ gè rén 。",
+          "Ở đây có năm người."
+        ],
+        [
+          "桌子上有电脑和书。",
+          "zhuō zi shàng yǒu diàn nǎo hé shū 。",
+          "Trên bàn có máy tính và sách."
+        ],
+        [
+          "他们在一起说话。",
+          "tā men zài yì qǐ shuō huà 。",
+          "Họ đang trò chuyện cùng nhau."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 2
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-3",
+      "title": "Ôn tập tranh · Tranh 2: Gia đình",
+      "image": "/chn113-study/learning-assets/hoa/speaking-3.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这是一家人。",
+          "zhè shì yī jiā rén 。",
+          "Đây là một gia đình."
+        ],
+        [
+          "他们家有五口人。",
+          "tā men jiā yǒu wǔ kǒu rén 。",
+          "Gia đình họ có năm người."
+        ],
+        [
+          "爸爸在抱孩子。",
+          "bà bà zài bào hái zi 。",
+          "Bố đang bế em bé."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 3
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-4",
+      "title": "Ôn tập tranh · Tranh 3: Viết chữ",
+      "image": "/chn113-study/learning-assets/hoa/speaking-4.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这个人在写汉字。",
+          "zhè ge rén zài xiě hàn zì 。",
+          "Người này đang viết chữ Hán."
+        ],
+        [
+          "桌子上有纸和笔。",
+          "zhuō zi shàng yǒu zhǐ hé bǐ 。",
+          "Trên bàn có giấy và bút."
+        ],
+        [
+          "这些汉字很漂亮。",
+          "zhè xiē hàn zì hěn piào liàng 。",
+          "Những chữ Hán này rất đẹp."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 4
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-5",
+      "title": "Ôn tập tranh · Tranh 4: Làm món ăn",
+      "image": "/chn113-study/learning-assets/hoa/speaking-5.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "他们在做中国菜。",
+          "tā men zài zuò zhōng guó cài 。",
+          "Họ đang làm món ăn Trung Quốc."
+        ],
+        [
+          "桌子上有很多饺子。",
+          "zhuō zi shàng yǒu hěn duō jiǎo zi 。",
+          "Trên bàn có nhiều bánh chẻo."
+        ],
+        [
+          "他们一起包饺子。",
+          "tā men yì qǐ bāo jiǎo zi 。",
+          "Họ cùng nhau gói bánh chẻo."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 5
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-6",
+      "title": "Ôn tập tranh · Tranh 6: Cửa hàng cốc",
+      "image": "/chn113-study/learning-assets/hoa/speaking-6.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这里有很多杯子。",
+          "zhè lǐ yǒu hěn duō bēi zi 。",
+          "Ở đây có nhiều cái cốc."
+        ],
+        [
+          "这些杯子很漂亮。",
+          "zhè xiē bēi zi hěn piào liàng 。",
+          "Những chiếc cốc này rất đẹp."
+        ],
+        [
+          "我想买一个杯子。",
+          "wǒ xiǎng mǎi yí gè bēi zi 。",
+          "Tôi muốn mua một cái cốc (ý kiến mẫu)."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 6
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-7",
+      "title": "Ôn tập tranh · Tranh 7: Đọc sách",
+      "image": "/chn113-study/learning-assets/hoa/speaking-7.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "他在看书。",
+          "tā zài kàn shū 。",
+          "Anh ấy đang đọc sách."
+        ],
+        [
+          "他在沙发上。",
+          "tā zài shā fā shàng 。",
+          "Anh ấy ở trên ghế sofa."
+        ],
+        [
+          "他的手里有一本书。",
+          "tā de shǒu lǐ yǒu yī běn shū 。",
+          "Trong tay anh ấy có một quyển sách."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 7
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-8",
+      "title": "Ôn tập tranh · Tranh 8: Bàn học",
+      "image": "/chn113-study/learning-assets/hoa/speaking-8.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "桌子上有一台电脑。",
+          "zhuō zi shàng yǒu yī tái diàn nǎo 。",
+          "Trên bàn có một máy tính."
+        ],
+        [
+          "桌子上也有书。",
+          "zhuō zi shàng yě yǒu shū 。",
+          "Trên bàn cũng có sách."
+        ],
+        [
+          "电脑旁边有一个苹果。",
+          "diàn nǎo páng biān yǒu yí gè píng guǒ 。",
+          "Bên cạnh máy tính có một quả táo."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 8
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-9",
+      "title": "Ôn tập tranh · Tranh 9: Mèo dưới ghế",
+      "image": "/chn113-study/learning-assets/hoa/speaking-9.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "椅子下面有一只小猫。",
+          "yǐ zi xià miàn yǒu yī zhī xiǎo māo 。",
+          "Dưới ghế có một con mèo nhỏ."
+        ],
+        [
+          "小猫在看前面。",
+          "xiǎo māo zài kàn qián miàn 。",
+          "Mèo đang nhìn phía trước."
+        ],
+        [
+          "它很可爱。",
+          "tā hěn kě ài 。",
+          "Nó rất đáng yêu."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 9
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-10",
+      "title": "Ôn tập tranh · Tranh 10: Bác sĩ",
+      "image": "/chn113-study/learning-assets/hoa/speaking-10.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这个人是医生。",
+          "zhè ge rén shì yī shēng 。",
+          "Người này là bác sĩ."
+        ],
+        [
+          "医生在写字。",
+          "yī shēng zài xiě zì 。",
+          "Bác sĩ đang viết chữ."
+        ],
+        [
+          "医生的手里有一支笔。",
+          "yī shēng de shǒu lǐ yǒu yī zhī bǐ 。",
+          "Trong tay bác sĩ có một cây bút."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 10
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-11",
+      "title": "Ôn tập tranh · Tranh 11: Đồ vật và thú cưng",
+      "image": "/chn113-study/learning-assets/hoa/speaking-11.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "桌子上有电脑、书和杯子。",
+          "zhuō zi shàng yǒu diàn nǎo 、 shū hé bēi zi 。",
+          "Trên bàn có máy tính, sách và cốc."
+        ],
+        [
+          "椅子上有一只猫。",
+          "yǐ zi shàng yǒu yī zhī māo 。",
+          "Trên ghế có một con mèo."
+        ],
+        [
+          "桌子下面有一只狗。",
+          "zhuō zi xià miàn yǒu yī zhī gǒu 。",
+          "Dưới bàn có một con chó."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 11
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-12",
+      "title": "Ôn tập tranh · Tranh 12: Trời lạnh",
+      "image": "/chn113-study/learning-assets/hoa/speaking-12.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "天气很冷。",
+          "tiān qì hěn lěng 。",
+          "Thời tiết rất lạnh."
+        ],
+        [
+          "地上有雪。",
+          "dì shàng yǒu xuě 。",
+          "Trên mặt đất có tuyết."
+        ],
+        [
+          "路上有很多人。",
+          "lù shàng yǒu hěn duō rén 。",
+          "Trên đường có nhiều người."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 12
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-13",
+      "title": "Ôn tập tranh · Tranh 13: Trời mưa",
+      "image": "/chn113-study/learning-assets/hoa/speaking-13.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "现在在下雨。",
+          "xiàn zài zài xià yǔ 。",
+          "Bây giờ đang mưa."
+        ],
+        [
+          "路上有很多车。",
+          "lù shàng yǒu hěn duō chē 。",
+          "Trên đường có nhiều xe."
+        ],
+        [
+          "地上有很多水。",
+          "dì shàng yǒu hěn duō shuǐ 。",
+          "Trên mặt đất có nhiều nước."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 13
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-14",
+      "title": "Ôn tập tranh · Tranh 14: Khám bệnh",
+      "image": "/chn113-study/learning-assets/hoa/speaking-14.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这个女人身体不太好。",
+          "zhè ge nǚ rén shēn tǐ bù tài hǎo 。",
+          "Người phụ nữ này không khỏe lắm."
+        ],
+        [
+          "她在看医生。",
+          "tā zài kàn yī shēng 。",
+          "Cô ấy đang khám bác sĩ."
+        ],
+        [
+          "医生在给她检查身体。",
+          "yī shēng zài gěi tā jiǎn chá shēn tǐ 。",
+          "Bác sĩ đang kiểm tra sức khỏe cho cô ấy."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 14
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-15",
+      "title": "Ôn tập tranh · Tranh 15: Mua sắm",
+      "image": "/chn113-study/learning-assets/hoa/speaking-15.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "他们在商店里。",
+          "tā men zài shāng diàn lǐ 。",
+          "Họ ở trong cửa hàng."
+        ],
+        [
+          "他们买了很多东西。",
+          "tā men mǎi le hěn duō dōng xī 。",
+          "Họ đã mua nhiều đồ."
+        ],
+        [
+          "他们很高兴。",
+          "tā men hěn gāo xìng 。",
+          "Họ rất vui."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 15
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-16",
+      "title": "Ôn tập tranh · Tranh 16: Ăn cùng gia đình",
+      "image": "/chn113-study/learning-assets/hoa/speaking-16.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "他们在一起吃饭。",
+          "tā men zài yì qǐ chī fàn 。",
+          "Họ đang ăn cơm cùng nhau."
+        ],
+        [
+          "桌子上有很多菜。",
+          "zhuō zi shàng yǒu hěn duō cài 。",
+          "Trên bàn có nhiều món ăn."
+        ],
+        [
+          "大家很高兴。",
+          "dà jiā hěn gāo xìng 。",
+          "Mọi người rất vui."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 16
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-17",
+      "title": "Ôn tập tranh · Tranh 17: Lái xe",
+      "image": "/chn113-study/learning-assets/hoa/speaking-17.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "他们在车里。",
+          "tā men zài chē lǐ 。",
+          "Họ ở trong ô tô."
+        ],
+        [
+          "这个女人在开车。",
+          "zhè ge nǚ rén zài kāi chē 。",
+          "Người phụ nữ này đang lái xe."
+        ],
+        [
+          "她旁边坐着一个男人。",
+          "tā páng biān zuò zhe yí gè nán rén 。",
+          "Bên cạnh cô ấy có một người đàn ông đang ngồi."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 17
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-18",
+      "title": "Ôn tập tranh · Tranh 18: Bạn bè trò chuyện",
+      "image": "/chn113-study/learning-assets/hoa/speaking-18.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这里有四个人。",
+          "zhè lǐ yǒu sì gè rén 。",
+          "Ở đây có bốn người."
+        ],
+        [
+          "他们坐在一起。",
+          "tā men zuò zài yì qǐ 。",
+          "Họ ngồi cùng nhau."
+        ],
+        [
+          "他们在说话。",
+          "tā men zài shuō huà 。",
+          "Họ đang trò chuyện."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 18
+      },
+      "status": "supplemental_practice"
+    },
+    {
+      "id": "hoa-picture-19",
+      "title": "Ôn tập tranh · Tranh 19: Đi máy bay",
+      "image": "/chn113-study/learning-assets/hoa/speaking-19.png",
+      "keywords": [],
+      "sentences": [
+        [
+          "这是一家人。",
+          "zhè shì yī jiā rén 。",
+          "Đây là một gia đình."
+        ],
+        [
+          "他们有很多行李。",
+          "tā men yǒu hěn duō xíng lǐ 。",
+          "Họ có nhiều hành lý."
+        ],
+        [
+          "窗外有一架飞机。",
+          "chuāng wài yǒu yī jià fēi jī 。",
+          "Ngoài cửa sổ có một chiếc máy bay."
+        ]
+      ],
+      "followups": [],
+      "source": {
+        "id": "hoa-pictures",
+        "filename": "Ôn tập tranh CHN113.pdf",
+        "page": 19
+      },
+      "status": "supplemental_practice"
     }
   ],
   "sources": [

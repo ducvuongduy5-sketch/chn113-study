@@ -1,0 +1,33 @@
+{
+  "quiz": {
+    "pages": 30,
+    "unique": 27,
+    "duplicates": {
+      "27": 13,
+      "28": 26,
+      "29": 10
+    },
+    "types": {
+      "choice": 21,
+      "arrange": 4,
+      "text": 2
+    }
+  },
+  "pictures": 18,
+  "translation": 110,
+  "conversation": 96,
+  "sources": [
+    {
+      "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+      "sha256": "a9706d448408bb5f753e5be36329fb0794844ea12ad4c713a277c19d45cd2ff7"
+    },
+    {
+      "filename": "Ôn tập tranh CHN113.pdf",
+      "sha256": "c9fa2b51d76f6d81598c589cfea8fea70b3119885c4b6fe5228dcbd0fecabf5f"
+    },
+    {
+      "filename": "26- CHN113 - Dịch Việt - Trung.pdf",
+      "sha256": "6b4b9086d9016030d8836acfd8b772fe724f9dde2ba06573d374a7c8ae870e2f"
+    }
+  ]
+}

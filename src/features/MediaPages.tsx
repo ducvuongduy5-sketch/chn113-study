@@ -266,6 +266,7 @@ export function Speaking() {
         title="Luyện nói theo tranh"
         description="Quan sát tranh, nói ít nhất ba câu, rồi tự nghe lại bản ghi của mình."
       />
+      <div className="panel row wrap"><button onClick={()=>{setPromptIndex(speaking.findIndex(s=>s.id.startsWith('hoa-picture-')));setShow(false)}} disabled={recording||requesting}>Ôn tập tranh mới · 18 tranh</button><Link className="button primary" to="/speaking/hoa">Dịch Việt–Trung & hỏi đáp · tài liệu 26</Link></div>
       <div className="toolbar">
         <label className="filter grow">
           Chọn tranh luyện nói

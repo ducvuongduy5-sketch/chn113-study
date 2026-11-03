@@ -31,6 +31,7 @@ import {
   Progress,
 } from "../features/StudyPages";
 import { Listening, Speaking, Sources } from "../features/MediaPages";
+const SpeakingHoa = lazy(() => import('../features/SpeakingHoa'));
 const Pinyin = lazy(() => import("../features/Pinyin"));
 const ListeningRepair = lazy(() => import('../features/ListeningRepair'));
 const AssessmentCenter = lazy(() => import('../features/AssessmentCenter'));
@@ -70,6 +71,7 @@ const sections: { label: string; items: [string, string, LucideIcon][] }[] = [
     label: "Ôn thi & theo dõi",
     items: [
       ["/quiz2", "Quiz 2", ClipboardCheck],
+      ["/exams/quiz-co-hoa", "Ôn quiz của cô Hoa", ClipboardCheck],
       ["/final", "Thi cuối kỳ", ClipboardCheck],
       ["/quiz1", "Quiz 1", ClipboardCheck],
       ["/review", "Sổ lỗi", RotateCcw],
@@ -180,6 +182,7 @@ export default function App() {
                 element={<QuestionPractice key="writing" skill="writing" />}
               />
               <Route path="/speaking" element={<Speaking />} />
+              <Route path="/speaking/hoa" element={<SpeakingHoa />} />
               <Route
                 path="/practice/quiz2"
                 element={<Exam key="quiz2" scope="quiz2" />}

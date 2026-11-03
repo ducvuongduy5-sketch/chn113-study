@@ -80,6 +80,7 @@ export default function ExamCenter() {
           </div>
           {tab === "quiz2" ? (
             <>
+              <p className="muted">Cấu trúc đề mô phỏng chuẩn bên dưới; bộ ôn của cô Hoa giữ riêng 21 trắc nghiệm + 4 sắp xếp + 2 đặt câu hỏi theo PDF.</p>
               <div className="exam-blueprint">
                 <div>
                   <b>12</b> Trắc nghiệm
@@ -102,7 +103,7 @@ export default function ExamCenter() {
                     </div>
                     <div>
                       <span className="eyebrow">
-                        {p.origin === "supplemental"
+                        {p.id === 'quiz-co-hoa' ? 'ÔN TỪ TÀI LIỆU CÔ HOA' : p.origin === "supplemental"
                           ? "BÀI LUYỆN BỔ SUNG"
                           : "BỘ GHÉP TỪ TÀI LIỆU ĐÃ CÓ"}
                       </span>
@@ -227,7 +228,7 @@ function ExamRoom({ paper }: { paper: Paper }) {
         <h1>{paper.title}</h1>
         <p>{paper.description}</p>
         <ol>
-          <li>27 câu: 12 trắc nghiệm, 5 cặp nối, 10 câu viết.</li>
+          <li>{paper.items.length} câu: {paper.items.filter(q=>q.kind==='choice').length} trắc nghiệm, {paper.items.filter(q=>q.kind==='match').length} cặp nối, {paper.items.filter(q=>q.kind==='arrange').length} sắp xếp, {paper.items.filter(q=>q.kind==='text').length} viết câu.</li>
           <li>Có thể đổi đáp án và đánh dấu câu cần xem lại.</li>
           <li>Ghép cặp là một–một; chọn lại đáp án đang dùng sẽ bỏ ghép cũ.</li>
           <li>Không hiện đáp án tham khảo trước khi nộp.</li>
@@ -455,9 +456,7 @@ function ExamRoom({ paper }: { paper: Paper }) {
           {(["reading", "writing"] as const).map((section) => (
             <div key={section}>
               <h3>
-                {section === "reading"
-                  ? "Reading · 17 câu"
-                  : "Writing · 10 câu"}
+                {section === "reading" ? "Reading" : "Writing"} · {paper.items.filter(q=>q.section===section).length} câu
               </h3>
               <div className="exam-number-grid">
                 {paper.items.map((item, i) =>

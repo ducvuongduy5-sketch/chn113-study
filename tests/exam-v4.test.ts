@@ -2,7 +2,7 @@ import {describe,it,expect} from 'vitest';
 import {papers,practicePaper} from '../src/features/exam/papers';
 import {gradeItem,gradePaper,setExamAnswer,seededOptions,loadExamDraft,type ExamItem} from '../src/features/exam/model';
 describe('V4 exam contract',()=>{
- it.each(papers)('$id has 12 MCQ, five individual pairs and ten writing items',p=>{
+ it.each(papers.filter(p=>p.id!=='quiz-co-hoa'))('$id has 12 MCQ, five individual pairs and ten writing items',p=>{
   expect(p.items).toHaveLength(27);expect(p.items.filter(q=>q.kind==='choice')).toHaveLength(12);expect(p.items.filter(q=>q.kind==='match')).toHaveLength(5);expect(p.items.filter(q=>q.section==='writing')).toHaveLength(10);
   expect(new Set(p.items.map(q=>q.id)).size).toBe(27);
  });

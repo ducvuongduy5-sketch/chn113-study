@@ -1,0 +1,818 @@
+{
+  "id": "quiz-co-hoa",
+  "title": "Ôn quiz của cô Hoa",
+  "category": "quiz2",
+  "origin": "source_collection",
+  "description": "27 câu riêng biệt từ 30 trang: 21 trắc nghiệm, 4 sắp xếp câu, 2 đặt câu hỏi. Bỏ trang trùng 27→13, 28→26, 29→10. Lời giải biên soạn từ ngôn ngữ và hình nguồn; chưa phải khóa cô xác nhận.",
+  "items": [
+    {
+      "id": "hoa-q1",
+      "section": "writing",
+      "kind": "arrange",
+      "prompt": "Sắp xếp: 天气 / 冷 / 今天 / 很",
+      "key": "今天天气很冷",
+      "keyStatus": "derived",
+      "explanation": "Thời gian 今天 có thể đứng đầu câu hoặc sau chủ ngữ 天气. 很 đứng trước 冷.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 1
+      },
+      "tokens": [
+        "天气",
+        "冷",
+        "今天",
+        "很"
+      ],
+      "alternatives": [
+        "天气今天很冷"
+      ]
+    },
+    {
+      "id": "hoa-q2",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "今天天气很____。",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "很 + tính từ: 很热 = rất nóng. 能 là động từ năng nguyện; 来 là đến; 雨 là mưa.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 2
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "热"
+        },
+        {
+          "id": "b",
+          "text": "能"
+        },
+        {
+          "id": "c",
+          "text": "来"
+        },
+        {
+          "id": "d",
+          "text": "雨"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q3",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "他在医院____。",
+      "key": "c",
+      "keyStatus": "derived",
+      "explanation": "在医院工作 = làm việc ở bệnh viện. Chủ ngữ + 在 + nơi chốn + động từ.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 3
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "椅子"
+        },
+        {
+          "id": "b",
+          "text": "时候"
+        },
+        {
+          "id": "c",
+          "text": "工作"
+        },
+        {
+          "id": "d",
+          "text": "下面"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q4",
+      "section": "writing",
+      "kind": "text",
+      "prompt": "Đặt câu hỏi cho từ trong ngoặc: 明天我去（商店）买苹果。",
+      "key": "明天你去哪儿买苹果？",
+      "keyStatus": "derived",
+      "explanation": "商店 là nơi chốn: thay bằng 哪儿/哪里. Khi hỏi người vừa nói 我, đổi thành 你; cũng chấp nhận giữ 我 trong bài biến đổi câu.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 4
+      },
+      "alternatives": [
+        "明天你去哪里买苹果？",
+        "你明天去哪儿买苹果？",
+        "你明天去哪里买苹果？",
+        "明天我去哪儿买苹果？",
+        "明天我去哪里买苹果？"
+      ]
+    },
+    {
+      "id": "hoa-q5",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "他们去看____。",
+      "key": "d",
+      "keyStatus": "derived",
+      "explanation": "Tranh là rạp chiếu phim. 看电影 = xem phim; 电视 là tivi, 电话 là điện thoại, 电脑 là máy tính.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 5
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "电话"
+        },
+        {
+          "id": "b",
+          "text": "电视"
+        },
+        {
+          "id": "c",
+          "text": "电脑"
+        },
+        {
+          "id": "d",
+          "text": "电影"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-5.png"
+    },
+    {
+      "id": "hoa-q6",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "他去商店买什么？",
+      "key": "d",
+      "keyStatus": "derived",
+      "explanation": "Tranh là cái cốc: 杯子 bēizi.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 6
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "米饭"
+        },
+        {
+          "id": "b",
+          "text": "椅子"
+        },
+        {
+          "id": "c",
+          "text": "桌子"
+        },
+        {
+          "id": "d",
+          "text": "杯子"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-6.png"
+    },
+    {
+      "id": "hoa-q7",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "桌子上面有什么？",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "Trên bàn có máy tính: 有电脑. Trả lời đúng vật xuất hiện rõ trong hình.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 7
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "有电脑"
+        },
+        {
+          "id": "b",
+          "text": "有狗"
+        },
+        {
+          "id": "c",
+          "text": "有书"
+        },
+        {
+          "id": "d",
+          "text": "有猫"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-7.png"
+    },
+    {
+      "id": "hoa-q8",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "小猫在哪儿？",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "Mèo ngồi trên bàn: 在桌子上. 上 là trên, 下 là dưới.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 8
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "在桌子上"
+        },
+        {
+          "id": "b",
+          "text": "在椅子下"
+        },
+        {
+          "id": "c",
+          "text": "在椅子上"
+        },
+        {
+          "id": "d",
+          "text": "在桌子下"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-8.png"
+    },
+    {
+      "id": "hoa-q9",
+      "section": "writing",
+      "kind": "text",
+      "prompt": "Đặt câu hỏi cho từ trong ngoặc: 我买（这些）水果。",
+      "key": "你买哪些水果？",
+      "keyStatus": "derived",
+      "explanation": "这些 chỉ nhóm được chọn, nên hỏi 哪些 (những…nào), không hỏi 多少 (bao nhiêu).",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 9
+      },
+      "alternatives": [
+        "我买哪些水果？",
+        "你买哪一些水果？",
+        "我买哪一些水果？"
+      ]
+    },
+    {
+      "id": "hoa-q10",
+      "section": "writing",
+      "kind": "arrange",
+      "prompt": "Sắp xếp: 电影 / 六点 / 看 / 我们 / 三十分",
+      "key": "我们六点三十分看电影",
+      "keyStatus": "derived",
+      "explanation": "Giờ 六点三十分 đứng trước hành động 看电影. Có thể đưa thời gian lên đầu.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 10
+      },
+      "tokens": [
+        "电影",
+        "六点",
+        "看",
+        "我们",
+        "三十分"
+      ],
+      "alternatives": [
+        "六点三十分我们看电影"
+      ]
+    },
+    {
+      "id": "hoa-q11",
+      "section": "writing",
+      "kind": "arrange",
+      "prompt": "Sắp xếp: 能 / 星期五 / 回家 / 前 / 吗",
+      "key": "星期五前能回家吗",
+      "keyStatus": "derived",
+      "explanation": "星期五前 = trước thứ Sáu; 能 + động từ; 吗 cuối câu. Nguồn không có chủ ngữ nên giữ câu lược chủ ngữ.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 11
+      },
+      "tokens": [
+        "能",
+        "星期五",
+        "回家",
+        "前",
+        "吗"
+      ]
+    },
+    {
+      "id": "hoa-q12",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "现在很____。",
+      "key": "d",
+      "keyStatus": "derived",
+      "explanation": "Tranh có tuyết và người mặc áo ấm: 冷 = lạnh.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 12
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "雨"
+        },
+        {
+          "id": "b",
+          "text": "天气"
+        },
+        {
+          "id": "c",
+          "text": "热"
+        },
+        {
+          "id": "d",
+          "text": "冷"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-12.png"
+    },
+    {
+      "id": "hoa-q13",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "你的身体____？",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "身体怎么样 = sức khỏe thế nào. 怎么样 hỏi tình trạng.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 13
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "怎么样"
+        },
+        {
+          "id": "b",
+          "text": "哪儿"
+        },
+        {
+          "id": "c",
+          "text": "什么"
+        },
+        {
+          "id": "d",
+          "text": "怎么"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q14",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "你____来？",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "什么时候 = khi nào; 你什么时候来 = khi nào bạn đến?",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 14
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "什么时候"
+        },
+        {
+          "id": "b",
+          "text": "时候"
+        },
+        {
+          "id": "c",
+          "text": "住"
+        },
+        {
+          "id": "d",
+          "text": "的时候"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q15",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "Chọn câu hỏi: A: ____？ B: 我想吃中国菜。",
+      "key": "d",
+      "keyStatus": "derived",
+      "explanation": "Câu trả lời nói muốn ăn món Trung Quốc, vì vậy hỏi 想吃什么.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 15
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "你想去哪儿吃饭？"
+        },
+        {
+          "id": "b",
+          "text": "你想喝什么？"
+        },
+        {
+          "id": "c",
+          "text": "今天你想去哪儿？"
+        },
+        {
+          "id": "d",
+          "text": "今天你想吃什么？"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q16",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "Chọn chữ Hán cho Pinyin: Diànshì",
+      "key": "c",
+      "keyStatus": "derived",
+      "explanation": "电视 diànshì = tivi; 电脑 diànnǎo, 电话 diànhuà, 电影 diànyǐng.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 16
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "电脑"
+        },
+        {
+          "id": "b",
+          "text": "电话"
+        },
+        {
+          "id": "c",
+          "text": "电视"
+        },
+        {
+          "id": "d",
+          "text": "电影"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q17",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "现在几点了？",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "Kim phút ở gần vạch 38; kim giờ giữa 3 và 4: 三点三十八分 (3:38), phù hợp nhất với ảnh và các lựa chọn.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 17
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "三点三十八分"
+        },
+        {
+          "id": "b",
+          "text": "三点二十分"
+        },
+        {
+          "id": "c",
+          "text": "四点四十分"
+        },
+        {
+          "id": "d",
+          "text": "四点二十分"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-17.png"
+    },
+    {
+      "id": "hoa-q18",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "Chọn câu hỏi: A: ____？ B: 今天他不会来。",
+      "key": "c",
+      "keyStatus": "derived",
+      "explanation": "Câu trả lời nói hôm nay anh ấy không đến, nên hỏi 今天他会来吗.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 18
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "今天他去哪儿？"
+        },
+        {
+          "id": "b",
+          "text": "他想吃什么？"
+        },
+        {
+          "id": "c",
+          "text": "今天他会来吗？"
+        },
+        {
+          "id": "d",
+          "text": "今天你会来吗？"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q19",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "Chọn chữ Hán cho Pinyin: Zhuōzi",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "桌子 zhuōzi = bàn. 椅子 = ghế; 杯子 = cốc; 下面 = bên dưới.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 19
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "桌子"
+        },
+        {
+          "id": "b",
+          "text": "下面"
+        },
+        {
+          "id": "c",
+          "text": "杯子"
+        },
+        {
+          "id": "d",
+          "text": "椅子"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q20",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "你想在北京____几天？",
+      "key": "b",
+      "keyStatus": "derived",
+      "explanation": "在北京住几天 = ở Bắc Kinh mấy ngày. 住 diễn tả ở/lưu trú.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 20
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "来"
+        },
+        {
+          "id": "b",
+          "text": "住"
+        },
+        {
+          "id": "c",
+          "text": "去"
+        },
+        {
+          "id": "d",
+          "text": "在"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q21",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "中国菜不____好吃。",
+      "key": "b",
+      "keyStatus": "derived",
+      "explanation": "不太好吃 = không ngon lắm, cách nói tự nhiên trong bài sơ cấp. 不很好吃 đôi khi có thể dùng theo ngữ cảnh, nhưng không phải lựa chọn mục tiêu của mẫu 不太 + tính từ.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 21
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "爱"
+        },
+        {
+          "id": "b",
+          "text": "太"
+        },
+        {
+          "id": "c",
+          "text": "很"
+        },
+        {
+          "id": "d",
+          "text": "想"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q22",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "她/他在____。",
+      "key": "d",
+      "keyStatus": "derived",
+      "explanation": "Em bé đang ngủ: 在睡觉. 在 + động từ diễn tả hành động đang xảy ra.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 22
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "打电话"
+        },
+        {
+          "id": "b",
+          "text": "吃饭"
+        },
+        {
+          "id": "c",
+          "text": "看电影"
+        },
+        {
+          "id": "d",
+          "text": "睡觉"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-22.png"
+    },
+    {
+      "id": "hoa-q23",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "你什么时候去看电影？",
+      "key": "b",
+      "keyStatus": "derived",
+      "explanation": "什么时候 hỏi thời gian; 星期三 = thứ Tư là đáp án phù hợp.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 23
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "下午我吃饭"
+        },
+        {
+          "id": "b",
+          "text": "星期三"
+        },
+        {
+          "id": "c",
+          "text": "我不爱看电视"
+        },
+        {
+          "id": "d",
+          "text": "我去看电影"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q24",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "Chọn câu hỏi: A: ____？ B: 这个杯子15块。",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "Hỏi giá dùng 多少钱. 15块 = mười lăm tệ.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 24
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "这个杯子多少钱？"
+        },
+        {
+          "id": "b",
+          "text": "你去哪儿买杯子？"
+        },
+        {
+          "id": "c",
+          "text": "你去商店买什么？"
+        },
+        {
+          "id": "d",
+          "text": "这个杯子几钱？"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q25",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "现在几点了？",
+      "key": "c",
+      "keyStatus": "derived",
+      "explanation": "Kim giờ chỉ gần 10, kim phút chỉ 2 (10 phút): 十点十分了. Kim dài mảnh hướng xuống là kim giây.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 25
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "两点五十分了"
+        },
+        {
+          "id": "b",
+          "text": "十点了"
+        },
+        {
+          "id": "c",
+          "text": "十点十分了"
+        },
+        {
+          "id": "d",
+          "text": "两点了"
+        }
+      ],
+      "image": "/chn113-study/learning-assets/hoa/quiz-25.png"
+    },
+    {
+      "id": "hoa-q26",
+      "section": "reading",
+      "kind": "choice",
+      "prompt": "睡觉____，我很喜欢看电影。",
+      "key": "a",
+      "keyStatus": "derived",
+      "explanation": "睡觉前 = trước khi ngủ, phù hợp thói quen xem phim. 前面/后面 dùng cho phương vị; 后 đổi nghĩa thành sau khi ngủ.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 26
+      },
+      "options": [
+        {
+          "id": "a",
+          "text": "前"
+        },
+        {
+          "id": "b",
+          "text": "前面"
+        },
+        {
+          "id": "c",
+          "text": "后面"
+        },
+        {
+          "id": "d",
+          "text": "后"
+        }
+      ]
+    },
+    {
+      "id": "hoa-q30",
+      "section": "writing",
+      "kind": "arrange",
+      "prompt": "Sắp xếp: 些 / 你 / 多 / 吃 / 水果",
+      "key": "你多吃些水果",
+      "keyStatus": "derived",
+      "explanation": "你 + 多 + 吃 + 些水果: bạn hãy ăn nhiều trái cây một chút.",
+      "source": {
+        "id": "hoa-quiz-pdf",
+        "filename": "1793718249040_619062814848716079_8890033246781978343_b701057b14828a570ab78bd38c3c4e3a.pdf",
+        "page": 30
+      },
+      "tokens": [
+        "些",
+        "你",
+        "多",
+        "吃",
+        "水果"
+      ]
+    }
+  ]
+}
