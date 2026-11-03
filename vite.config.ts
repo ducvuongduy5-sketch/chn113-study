@@ -1,0 +1,1 @@
+import {defineConfig} from 'vitest/config';import react from '@vitejs/plugin-react';export default defineConfig({plugins:[react()],base:'/chn113-study/',define:{__PUBLIC_BUILD__:true},build:{outDir:'docs'},test:{include:['tests/**/*.test.ts']}});

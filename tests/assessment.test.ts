@@ -1,0 +1,21 @@
+import {describe,it,expect} from 'vitest';
+import {evaluate,summarize,validQuestion,matchAnswer,restoreAttempt,freshAttempt,type Question,type Assessment} from '../src/lib/assessment';
+import {seededOptions} from '../src/features/exam/model';
+import datasets from '../src/data/assessments.json';
+import {listeningChallenges,sentenceChallenges} from '../src/data/repair-games';
+const q:Question={id:'q',kind:'single',prompt:'Choose',options:['a','b','c','d'].map(id=>({id,text:id})),key:'c',keyStatus:'verified',sourceId:'source',page:1};
+describe('assessment identities and validity',()=>{
+ it('does not interpret every option as B',()=>{for(const key of ['a','b','c','d'])for(const choice of ['a','b','c','d'])expect(evaluate({...q,key},choice)).toBe(key===choice?'correct':'incorrect')});
+ it('preserves correct identity through 100 seeded shuffles',()=>{for(let i=0;i<100;i++)expect(evaluate({...q,options:seededOptions(q.options!,String(i))},'c')).toBe('correct')});
+ it('handles empty, invalid ids and multiple selections on single choice',()=>{expect(evaluate(q,'')).toBe('unanswered');expect(evaluate(q,['c'])).toBe('invalid');expect(evaluate(q,'z')).toBe('invalid')});
+ it('excludes invalid questions and duplicate IDs from totals',()=>{const result=summarize([q,q,{...q,id:''},{...q,id:'bad',key:'z'}],{q:'c'});expect(result.total).toBe(1);expect(result.excluded).toBe(3);expect(result.percent).toBe(100)});
+ it('calculates weighted percentages including unanswered eligible questions',()=>{const result=summarize([q,{...q,id:'q2',weight:3}],{q:'c'});expect(result.percent).toBe(25);expect(result.unanswered).toBe(1)});
+ it('does not score inferred answers',()=>{expect(summarize([{...q,keyStatus:'inferred'}],{q:'c'}).percent).toBeNull();expect(evaluate({...q,keyStatus:'inferred'},'c')).toBe('review')});
+ it('evaluates matching by row identities and prevents reused options',()=>{const m:Question={...q,kind:'matching',rows:[{id:'r1',text:'one'},{id:'r2',text:'two'}],key:{r1:'a',r2:'c'}};expect(evaluate(m,{r1:'a',r2:'c'})).toBe('correct');expect(evaluate(m,{r1:'c',r2:'a'})).toBe('incorrect');expect(evaluate(m,{r1:'a'})).toBe('invalid');expect(evaluate(m,{r1:'a',r2:'a'})).toBe('invalid');expect(matchAnswer({r1:'a'},'r2','a')).toEqual({r2:'a'})});
+ it('grades multiple choice as a set and ordering as a sequence',()=>{expect(evaluate({...q,kind:'multiple',key:['a','c']},['c','a'])).toBe('correct');expect(evaluate({...q,kind:'ordering',key:['a','b','c','d']},['d','c','b','a'])).toBe('incorrect')});
+ it('supports text normalization and explicit alternate sequences',()=>{expect(evaluate({...q,kind:'text',key:'你好'},'你好。')).toBe('correct');const s=sentenceChallenges[0];expect(evaluate(s,s.alternatives![0])).toBe('correct')});
+ it('restores submitted answers and never regrades by display index',()=>{const a:Assessment={id:'a',title:'a',description:'',category:'reading',sourceId:'source',filename:'file',questions:[q]};const d={...freshAttempt(a.id),answers:{q:'c'},submitted:true};const restored=restoreAttempt(JSON.stringify(d),a);expect(restored?.submitted).toBe(true);expect(summarize(a.questions,restored!.answers).percent).toBe(100);expect(restoreAttempt('{broken',a)).toBeNull()});
+ it('all imported questions and game questions have valid identities',()=>{for(const a of datasets as Assessment[])for(const item of a.questions)expect(validQuestion(item),item.id).toBe(true);for(const item of [...listeningChallenges,...sentenceChallenges])expect(validQuestion(item),item.id).toBe(true)});
+ it('preserves incomplete ordering when navigating away',()=>{const item=sentenceChallenges[0];const a:Assessment={id:'partial',title:'partial',description:'',category:'writing',sourceId:'test',filename:'test',questions:[item]};const d={...freshAttempt(a.id),answers:{[item.id]:[item.options![0].id]}};expect(restoreAttempt(JSON.stringify(d),a)?.answers[item.id]).toEqual(d.answers[item.id])});
+ it('keeps 9 distinct complete matching groups and full 70-page MCQ collection',()=>{expect(datasets.filter(a=>a.category==='matching')).toHaveLength(9);expect(datasets.find(a=>a.id==='reading-original')!.questions).toHaveLength(70);expect(datasets.find(a=>a.id==='sp24-fe-practice')!.questions).toHaveLength(20)});
+});

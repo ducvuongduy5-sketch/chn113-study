@@ -1,0 +1,106 @@
+[
+  {
+    "paperId": "fa24-fe-practice",
+    "sectionId": 1,
+    "audioAsset": "/learning-assets/original-media/s70d6221a235b.mp3",
+    "questionIds": [
+      "fa24-fe-q1",
+      "fa24-fe-q2",
+      "fa24-fe-q3",
+      "fa24-fe-q4",
+      "fa24-fe-q5"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "fa24-fe-practice",
+    "sectionId": 2,
+    "audioAsset": "/learning-assets/original-media/s3867087e6ab5.mp3",
+    "questionIds": [
+      "fa24-fe-q6",
+      "fa24-fe-q7",
+      "fa24-fe-q8",
+      "fa24-fe-q9",
+      "fa24-fe-q10"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "fa24-fe-practice",
+    "sectionId": 3,
+    "audioAsset": "/learning-assets/original-media/s0ca29e0936db.mp3",
+    "questionIds": [
+      "fa24-fe-q11",
+      "fa24-fe-q12",
+      "fa24-fe-q13",
+      "fa24-fe-q14",
+      "fa24-fe-q15"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "fa24-fe-practice",
+    "sectionId": 4,
+    "audioAsset": "/learning-assets/original-media/s7c9a634f531b.mp3",
+    "questionIds": [
+      "fa24-fe-q16",
+      "fa24-fe-q17",
+      "fa24-fe-q18",
+      "fa24-fe-q19",
+      "fa24-fe-q20"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "sp24-fe-practice",
+    "sectionId": 1,
+    "audioAsset": "/learning-assets/original-media/s64554fc92d9a.mp3",
+    "questionIds": [
+      "sp24-fe-candidate-q1",
+      "sp24-fe-candidate-q2",
+      "sp24-fe-candidate-q3",
+      "sp24-fe-candidate-q4",
+      "sp24-fe-candidate-q5"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "sp24-fe-practice",
+    "sectionId": 2,
+    "audioAsset": "/learning-assets/original-media/sbb3e8311e297.mp3",
+    "questionIds": [
+      "sp24-fe-candidate-q6",
+      "sp24-fe-candidate-q7",
+      "sp24-fe-candidate-q8",
+      "sp24-fe-candidate-q9",
+      "sp24-fe-candidate-q10"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "sp24-fe-practice",
+    "sectionId": 3,
+    "audioAsset": "/learning-assets/original-media/s08f51bd4bb73.mp3",
+    "questionIds": [
+      "sp24-fe-candidate-q11",
+      "sp24-fe-candidate-q12",
+      "sp24-fe-candidate-q13",
+      "sp24-fe-candidate-q14",
+      "sp24-fe-candidate-q15"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  },
+  {
+    "paperId": "sp24-fe-practice",
+    "sectionId": 4,
+    "audioAsset": "/learning-assets/original-media/s686e657635c4.mp3",
+    "questionIds": [
+      "sp24-fe-candidate-q16",
+      "sp24-fe-candidate-q17",
+      "sp24-fe-candidate-q18",
+      "sp24-fe-candidate-q19",
+      "sp24-fe-candidate-q20"
+    ],
+    "confidence": "content-reviewed candidate; not official code certification"
+  }
+]

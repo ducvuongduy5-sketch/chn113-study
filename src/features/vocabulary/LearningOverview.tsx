@@ -1,0 +1,17 @@
+import {Link} from 'react-router-dom';
+import {BookOpen,Gamepad2,ClipboardCheck,ArrowRight} from 'lucide-react';
+import {useLearning} from '../../hooks/useLearning';
+import {coreWords,words,selectDeck} from '../../data/vocabulary';
+import './vocabulary.css';
+export function CenterLinks(){return <div className="center-links">{[
+ {to:'/vocabulary',Icon:BookOpen,name:'Học & luyện',text:'150 từ, thẻ nhớ và bài tập theo kỹ năng.'},
+ {to:'/games',Icon:Gamepad2,name:'Chơi để nhớ',text:'11 trò chơi từ vựng, có chấm điểm và ôn lại từ sai.'},
+ {to:'/exams',Icon:ClipboardCheck,name:'Phòng thi',text:'Quiz 2 · 27 câu. FE dành riêng cho Nghe.'},
+].map(({to,Icon,name,text})=><Link to={to} key={to}><Icon size={23}/><h2>{name}</h2><p>{text}</p><ArrowRight size={19}/></Link>)}</div>}
+export function LearningOverview({detailed=false}:{detailed?:boolean}){
+ const {data,storageError}=useLearning();const stats=Object.values(data.words);const seen=coreWords.filter(w=>data.words[w.id]?.views||data.words[w.id]?.lastReview).length;
+ const known=coreWords.filter(w=>{const s=data.words[w.id];return s&&s.streak>=3&&s.correct>=3&&['good','easy'].includes(s.rating||'')}).length;
+ const correct=stats.reduce((n,s)=>n+s.correct,0),wrong=stats.reduce((n,s)=>n+s.wrong,0);const due=selectDeck('due',data.words);
+ return <section className="panel learning-overview"><div className="section-heading"><h2>Hành trình nhớ từ</h2><Link to="/flashcards?deck=due">Ôn {due.length} từ đến hạn <ArrowRight size={15}/></Link></div><div className="learning-stats">{[[seen+'/150','HSK1 đã gặp'],[known,'HSK1 nhớ tốt'],[correct+wrong,'Lượt luyện & tự đánh giá'],[correct+wrong?Math.round(correct/(correct+wrong)*100)+'%':'—','Tỉ lệ nhớ đúng'],[data.sessions.length,'Lượt luyện / game đã lưu']].map(([n,label])=><div key={label}><b>{n}</b><span>{label}</span></div>)}</div><p className="muted small">Nhớ tốt: ít nhất 3 lượt đúng liên tiếp và mức gần nhất “Nhớ được” hoặc “Dễ”. Tự đánh giá flashcard được tính riêng với điểm bài thi.</p>{storageError&&<p role="alert">Không thể lưu tiến độ từ vựng. Xuất dữ liệu trước khi đóng trang.</p>}{detailed&&<><h3>Lượt luyện gần đây</h3>{data.sessions.length?data.sessions.slice(-10).reverse().map(s=><div key={s.id} className="learning-history"><strong>{s.kind}</strong><span>{s.score} điểm · {s.correctIds.length} đúng / {s.wrongIds.length} sai</span><time>{new Date(s.finished).toLocaleString('vi-VN')}</time></div>):<p>Chưa có lượt luyện hoặc game đã lưu.</p>}</>}</section>
+}
+export function VocabularyMistakes(){const {data}=useLearning();const missed=selectDeck('missed',data.words);return <section className="panel"><div className="section-heading"><h2>Từ cần nhớ lại · {missed.length}</h2><Link to="/flashcards?deck=missed">Ôn bằng thẻ</Link></div>{missed.length?<><div className="word-mistakes">{missed.map(w=><div key={w.id}><strong lang="zh-CN">{w.hanzi}</strong><span className="pinyin">{w.pinyin}</span><span>{w.meaning}</span></div>)}</div><div className="actions"><Link className="button primary" to="/vocabulary/practice?deck=missed">Luyện từ sai</Link><Link className="button" to="/games/word-match">Nối từ HSK1</Link></div></>:<p>Chưa có từ trả lời sai chưa được sửa. Từ sai trong game và bài luyện sẽ xuất hiện ở đây.</p>}<p className="muted small">{words.length} mục từ dùng chung cho thẻ, bài luyện và trò chơi. Trả lời đúng để đưa từ ra khỏi danh sách này.</p></section>}

@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "local-q2-collection",
+    "title": "Quiz 2 · Bộ nguồn địa phương",
+    "category": "quiz2",
+    "origin": "source_collection",
+    "description": "Tuyển tập 12 câu đọc + 5 cặp nối + 10 câu viết. Có chấm luyện và chữa từng câu; phần viết mở tự đối chiếu. Chưa xác nhận cùng mã đề.",
+    "items": [
+      {
+        "id": "img-q1",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "桌子下有什么？",
+        "passage": "桌子上有三本书和一个电脑。椅子在桌子下。",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "书"
+          },
+          {
+            "id": "option-1",
+            "text": "电脑"
+          },
+          {
+            "id": "option-2",
+            "text": "椅子"
+          }
+        ],
+        "key": "option-2",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 桌子上有三本书和一个电脑。椅子在桌子下。 → 椅子.",
+        "source": {
+          "id": "sdc8de0a51590",
+          "filename": "Q1.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q2",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "他们几点去看电影？",
+        "passage": "现在七点。我们八点前去看电影。",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "六点五十分"
+          },
+          {
+            "id": "option-1",
+            "text": "七点五十分"
+          },
+          {
+            "id": "option-2",
+            "text": "八点二十分"
+          }
+        ],
+        "key": "option-1",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 现在七点。我们八点前去看电影。 → 七点五十分.",
+        "source": {
+          "id": "sb20b1eaa638a",
+          "filename": "Q2.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q3",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "明天谢朋想去哪儿？",
+        "passage": "王芳：明天天气很好。你想去医院吗？\n谢朋：不去，明天我想去学校。",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "医院"
+          },
+          {
+            "id": "option-1",
+            "text": "学校"
+          },
+          {
+            "id": "option-2",
+            "text": "商店"
+          }
+        ],
+        "key": "option-1",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 王芳：明天天气很好。你想去医院吗？\n谢朋：不去，明天我想去学校。 → 学校.",
+        "source": {
+          "id": "se246fc53dc42",
+          "filename": "Q3.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q4",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "上午他做什么？",
+        "passage": "我上午买很多菜，中午做饭。我会做中国菜。",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "做饭"
+          },
+          {
+            "id": "option-1",
+            "text": "做菜"
+          },
+          {
+            "id": "option-2",
+            "text": "买菜"
+          }
+        ],
+        "key": "option-2",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 我上午买很多菜，中午做饭。我会做中国菜。 → 买菜.",
+        "source": {
+          "id": "sdf4f2221c326",
+          "filename": "Q4.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q5",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "昨天下午她去______买三个杯子。",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "桌子"
+          },
+          {
+            "id": "option-1",
+            "text": "商店"
+          },
+          {
+            "id": "option-2",
+            "text": "椅子"
+          }
+        ],
+        "key": "option-1",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 昨天下午她去______买三个杯子。 → 商店.",
+        "source": {
+          "id": "s787bacc3ec78",
+          "filename": "Q5.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q6",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "你儿子在______工作？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "哪"
+          },
+          {
+            "id": "option-1",
+            "text": "那"
+          },
+          {
+            "id": "option-2",
+            "text": "哪儿"
+          }
+        ],
+        "key": "option-2",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 你儿子在______工作？ → 哪儿.",
+        "source": {
+          "id": "s8d3c5c50f93d",
+          "filename": "Q6.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q7",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "______有什么？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "桌子上"
+          },
+          {
+            "id": "option-1",
+            "text": "上桌子"
+          },
+          {
+            "id": "option-2",
+            "text": "里桌子"
+          }
+        ],
+        "key": "option-0",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: ______有什么？ → 桌子上.",
+        "source": {
+          "id": "s33a81cc2de94",
+          "filename": "Q7.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q8",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "昨天你看什么______？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "电影"
+          },
+          {
+            "id": "option-1",
+            "text": "时候"
+          },
+          {
+            "id": "option-2",
+            "text": "星期天"
+          }
+        ],
+        "key": "option-0",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 昨天你看什么______？ → 电影.",
+        "source": {
+          "id": "sb038b14a3395",
+          "filename": "Q8.jpg",
+          "slide": null,
+          "page": null
+        },
+        "review": false
+      },
+      {
+        "id": "img-q9",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Chọn câu trả lời phù hợp.",
+        "passage": "今天会下雨吗？",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "明天不会下雨"
+          },
+          {
+            "id": "option-1",
+            "text": "今天天气很好，不会下雨"
+          },
+          {
+            "id": "option-2",
+            "text": "昨天太热了，明天天气很好"
+          },
+          {
+            "id": "option-3",
+            "text": "我很喜欢冷的天气"
+          }
+        ],
+        "key": "option-1",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 今天会下雨吗？ → 今天天气很好，不会下雨.",
+        "source": {
+          "id": "sde97b3de8619",
+          "filename": "Q9.jpg",
+          "slide": null,
+          "page": null
+        },
+        "image": "/chn113-study/learning-assets/exam-picture-9.webp",
+        "review": false
+      },
+      {
+        "id": "img-q10",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Chọn câu trả lời phù hợp.",
+        "passage": "请问，你爸爸在家吗？",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "对不起，我没有王老师的电话"
+          },
+          {
+            "id": "option-1",
+            "text": "我在看电影呢"
+          },
+          {
+            "id": "option-2",
+            "text": "我爸爸的电话号码是21307869"
+          },
+          {
+            "id": "option-3",
+            "text": "喂，我爸爸不在家。"
+          }
+        ],
+        "key": "option-3",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: 请问，你爸爸在家吗？ → 喂，我爸爸不在家。.",
+        "source": {
+          "id": "s1c317316b499",
+          "filename": "Q10.jpg",
+          "slide": null,
+          "page": null
+        },
+        "image": "/chn113-study/learning-assets/exam-picture-10.webp",
+        "review": false
+      },
+      {
+        "id": "img-q11",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Chọn câu phù hợp với hình.",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "我们去商店买很多水果"
+          },
+          {
+            "id": "option-1",
+            "text": "我们不爱吃水果，爱喝水"
+          },
+          {
+            "id": "option-2",
+            "text": "我们身体不太好，不爱吃饭"
+          },
+          {
+            "id": "option-3",
+            "text": "我们不爱吃饭，我爱吃水果"
+          }
+        ],
+        "key": "D là phương án gần nhất: 我们不爱吃饭，我爱吃水果。",
+        "keyStatus": "inferred",
+        "explanation": "Tranh thể hiện trẻ ăn trái cây nhưng không chứng minh chúng không thích ăn cơm. Lựa chọn D gần nhất, chưa đủ căn cứ để chấm tự động.",
+        "source": {
+          "id": "s761095d90df0",
+          "filename": "Q11.jpg",
+          "slide": null,
+          "page": null
+        },
+        "image": "/chn113-study/learning-assets/exam-picture-11.webp",
+        "review": true
+      },
+      {
+        "id": "img-q12",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Chọn câu phù hợp với hình.",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "他没去看电影，在家学做菜呢"
+          },
+          {
+            "id": "option-1",
+            "text": "他在去商店买几本汉语书"
+          },
+          {
+            "id": "option-2",
+            "text": "他没在看书，在看电视呢"
+          },
+          {
+            "id": "option-3",
+            "text": "他在给妈妈打电话呢"
+          }
+        ],
+        "key": "option-2",
+        "keyStatus": "derived",
+        "explanation": "Dựa vào câu/đoạn/tranh: Chọn câu phù hợp với hình. → 他没在看书，在看电视呢.",
+        "source": {
+          "id": "s401bc3cdb664",
+          "filename": "Q12.jpg",
+          "slide": null,
+          "page": null
+        },
+        "image": "/chn113-study/learning-assets/exam-picture-12.webp",
+        "review": false
+      },
+      {
+        "id": "match-q13-0",
+        "section": "reading",
+        "kind": "match",
+        "prompt": "中午你几点吃饭？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "他下午喜欢去看电影。"
+          },
+          {
+            "id": "option-1",
+            "text": "他今天不能来，明天他会来。"
+          },
+          {
+            "id": "option-2",
+            "text": "不，他在学校工作。"
+          },
+          {
+            "id": "option-3",
+            "text": "我十二点吃。"
+          },
+          {
+            "id": "option-4",
+            "text": "那个杯子二十四块。"
+          }
+        ],
+        "key": "option-3",
+        "keyStatus": "derived",
+        "explanation": "Ghép đúng loại thông tin: giờ ăn, giá tiền, hoạt động, khả năng đến và nơi làm việc.",
+        "source": {
+          "id": "saf99a02c9b5a",
+          "filename": "Q13.jpg",
+          "slide": null,
+          "page": null
+        },
+        "group": "q13"
+      },
+      {
+        "id": "match-q13-1",
+        "section": "reading",
+        "kind": "match",
+        "prompt": "请问，那个杯子多少钱？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "他下午喜欢去看电影。"
+          },
+          {
+            "id": "option-1",
+            "text": "他今天不能来，明天他会来。"
+          },
+          {
+            "id": "option-2",
+            "text": "不，他在学校工作。"
+          },
+          {
+            "id": "option-3",
+            "text": "我十二点吃。"
+          },
+          {
+            "id": "option-4",
+            "text": "那个杯子二十四块。"
+          }
+        ],
+        "key": "option-4",
+        "keyStatus": "derived",
+        "explanation": "Ghép đúng loại thông tin: giờ ăn, giá tiền, hoạt động, khả năng đến và nơi làm việc.",
+        "source": {
+          "id": "saf99a02c9b5a",
+          "filename": "Q13.jpg",
+          "slide": null,
+          "page": null
+        },
+        "group": "q13"
+      },
+      {
+        "id": "match-q13-2",
+        "section": "reading",
+        "kind": "match",
+        "prompt": "下午爸爸想做什么？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "他下午喜欢去看电影。"
+          },
+          {
+            "id": "option-1",
+            "text": "他今天不能来，明天他会来。"
+          },
+          {
+            "id": "option-2",
+            "text": "不，他在学校工作。"
+          },
+          {
+            "id": "option-3",
+            "text": "我十二点吃。"
+          },
+          {
+            "id": "option-4",
+            "text": "那个杯子二十四块。"
+          }
+        ],
+        "key": "option-0",
+        "keyStatus": "derived",
+        "explanation": "Ghép đúng loại thông tin: giờ ăn, giá tiền, hoạt động, khả năng đến và nơi làm việc.",
+        "source": {
+          "id": "saf99a02c9b5a",
+          "filename": "Q13.jpg",
+          "slide": null,
+          "page": null
+        },
+        "group": "q13"
+      },
+      {
+        "id": "match-q13-3",
+        "section": "reading",
+        "kind": "match",
+        "prompt": "今天大卫会来吗？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "他下午喜欢去看电影。"
+          },
+          {
+            "id": "option-1",
+            "text": "他今天不能来，明天他会来。"
+          },
+          {
+            "id": "option-2",
+            "text": "不，他在学校工作。"
+          },
+          {
+            "id": "option-3",
+            "text": "我十二点吃。"
+          },
+          {
+            "id": "option-4",
+            "text": "那个杯子二十四块。"
+          }
+        ],
+        "key": "option-1",
+        "keyStatus": "derived",
+        "explanation": "Ghép đúng loại thông tin: giờ ăn, giá tiền, hoạt động, khả năng đến và nơi làm việc.",
+        "source": {
+          "id": "saf99a02c9b5a",
+          "filename": "Q13.jpg",
+          "slide": null,
+          "page": null
+        },
+        "group": "q13"
+      },
+      {
+        "id": "match-q13-4",
+        "section": "reading",
+        "kind": "match",
+        "prompt": "你儿子在医院工作吗？",
+        "passage": "",
+        "options": [
+          {
+            "id": "option-0",
+            "text": "他下午喜欢去看电影。"
+          },
+          {
+            "id": "option-1",
+            "text": "他今天不能来，明天他会来。"
+          },
+          {
+            "id": "option-2",
+            "text": "不，他在学校工作。"
+          },
+          {
+            "id": "option-3",
+            "text": "我十二点吃。"
+          },
+          {
+            "id": "option-4",
+            "text": "那个杯子二十四块。"
+          }
+        ],
+        "key": "option-2",
+        "keyStatus": "derived",
+        "explanation": "Ghép đúng loại thông tin: giờ ăn, giá tiền, hoạt động, khả năng đến và nơi làm việc.",
+        "source": {
+          "id": "saf99a02c9b5a",
+          "filename": "Q13.jpg",
+          "slide": null,
+          "page": null
+        },
+        "group": "q13"
+      },
+      {
+        "id": "local-w20-1",
+        "section": "writing",
+        "kind": "arrange",
+        "prompt": "Sắp xếp thành câu hoàn chỉnh.",
+        "tokens": [
+          "爱",
+          "妈妈",
+          "看",
+          "不",
+          "电视"
+        ],
+        "key": "妈妈不爱看电视。",
+        "keyStatus": "derived",
+        "explanation": "Sắp xếp theo chủ ngữ, thời gian, động từ và tân ngữ. Dấu câu/khoảng trắng được chuẩn hóa.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": false
+      },
+      {
+        "id": "local-w20-2",
+        "section": "writing",
+        "kind": "arrange",
+        "prompt": "Sắp xếp thành câu hoàn chỉnh.",
+        "tokens": [
+          "回家",
+          "前",
+          "吗",
+          "星期四",
+          "能"
+        ],
+        "key": "星期四前能回家吗？",
+        "keyStatus": "derived",
+        "explanation": "Sắp xếp theo chủ ngữ, thời gian, động từ và tân ngữ. Dấu câu/khoảng trắng được chuẩn hóa.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": false
+      },
+      {
+        "id": "local-w20-3",
+        "section": "writing",
+        "kind": "arrange",
+        "prompt": "Sắp xếp thành câu hoàn chỉnh.",
+        "tokens": [
+          "下午",
+          "会",
+          "明天",
+          "下雨",
+          "不"
+        ],
+        "key": "明天下午不会下雨。",
+        "keyStatus": "derived",
+        "explanation": "Sắp xếp theo chủ ngữ, thời gian, động từ và tân ngữ. Dấu câu/khoảng trắng được chuẩn hóa.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": false
+      },
+      {
+        "id": "local-w20-4",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "请问，他的小猫在哪儿？ — Trả lời với 桌子。",
+        "tokens": [],
+        "key": "他的小猫在桌子下面。",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      },
+      {
+        "id": "local-w20-5",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "前面那个人是谁？ — Trả lời với 医生。",
+        "tokens": [],
+        "key": "前面那个人是医生。",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      },
+      {
+        "id": "local-w20-6",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "李老师的身体怎么样？ — Trả lời với 不太。",
+        "tokens": [],
+        "key": "李老师的身体不太好。",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      },
+      {
+        "id": "local-w20-7",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Dịch: Con trai cô Vương làm việc ở bệnh viện.",
+        "tokens": [],
+        "key": "王老师的儿子在医院工作。",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      },
+      {
+        "id": "local-w20-8",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Dịch: Hôm nay lạnh quá, anh ấy sẽ không đến đâu.",
+        "tokens": [],
+        "key": "今天太冷了，他不会来。",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      },
+      {
+        "id": "local-w20-9",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Dịch: Bạn ở Bắc Kinh mấy ngày?",
+        "tokens": [],
+        "key": "你在北京几天？",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      },
+      {
+        "id": "local-w20-10",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Dịch: Bạn đang gọi điện cho ai thế?",
+        "tokens": [],
+        "key": "你在给谁打电话呢？",
+        "keyStatus": "inferred",
+        "explanation": "Câu mẫu dùng để đối chiếu ý nghĩa và trật tự. Cách diễn đạt đúng khác mẫu được giữ để tự đánh giá.",
+        "source": {
+          "id": "s1c46ac78b7c5",
+          "filename": "paper (20).pdf",
+          "page": 1
+        },
+        "review": true
+      }
+    ]
+  },
+  {
+    "id": "quiz2-source-practice-02",
+    "title": "Quiz 2 · Tuyển tập luyện 02",
+    "category": "quiz2",
+    "origin": "source_collection",
+    "description": "Tuyển tập biên soạn: 12 câu từ Q13, 5 cặp nối trang 26 và 10 câu Writing paper (1). Không phải một mã đề chính thức. Có chấm luyện và câu mẫu.",
+    "items": [
+      {
+        "id": "collection2-s29577d5a282e-p2",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "睡觉前我______看电视。",
+        "passage": "",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 喜欢. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 2
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p2-A",
+            "text": "买"
+          },
+          {
+            "id": "s29577d5a282e-p2-B",
+            "text": "喜欢"
+          },
+          {
+            "id": "s29577d5a282e-p2-C",
+            "text": "有"
+          }
+        ],
+        "key": "s29577d5a282e-p2-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p3",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "你想在北京住______？",
+        "passage": "",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 几天. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 3
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p3-A",
+            "text": "几号"
+          },
+          {
+            "id": "s29577d5a282e-p3-B",
+            "text": "几天"
+          },
+          {
+            "id": "s29577d5a282e-p3-C",
+            "text": "天几"
+          }
+        ],
+        "key": "s29577d5a282e-p3-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p4",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "桌子上有一个______，是你的吗？",
+        "passage": "",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 电脑. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 4
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p4-A",
+            "text": "电脑"
+          },
+          {
+            "id": "s29577d5a282e-p4-B",
+            "text": "书汉语"
+          },
+          {
+            "id": "s29577d5a282e-p4-C",
+            "text": "菜中国"
+          }
+        ],
+        "key": "s29577d5a282e-p4-A"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p5",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "今天你想______什么茶？",
+        "passage": "",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 喝. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 5
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p5-A",
+            "text": "坐"
+          },
+          {
+            "id": "s29577d5a282e-p5-B",
+            "text": "喝"
+          },
+          {
+            "id": "s29577d5a282e-p5-C",
+            "text": "在"
+          }
+        ],
+        "key": "s29577d5a282e-p5-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p6",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "王方今天给谁打电话？",
+        "passage": "昨天上午王方去北京见李老师。今天她给妈妈打电话。",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 妈妈. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 6
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p6-A",
+            "text": "李老师"
+          },
+          {
+            "id": "s29577d5a282e-p6-B",
+            "text": "妈妈"
+          },
+          {
+            "id": "s29577d5a282e-p6-C",
+            "text": "朋友"
+          }
+        ],
+        "key": "s29577d5a282e-p6-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p7",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "星期几会下雨？",
+        "passage": "昨天星期四天气很好，今天会下雨。",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 星期五. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 7
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p7-A",
+            "text": "星期四"
+          },
+          {
+            "id": "s29577d5a282e-p7-B",
+            "text": "星期五"
+          },
+          {
+            "id": "s29577d5a282e-p7-C",
+            "text": "星期六"
+          }
+        ],
+        "key": "s29577d5a282e-p7-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p8",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "我前面的那个人是谁？",
+        "passage": "我前面的那个人是王方。她是谢朋的同学。",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 王方. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 8
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p8-A",
+            "text": "谢朋"
+          },
+          {
+            "id": "s29577d5a282e-p8-B",
+            "text": "王方的同学"
+          },
+          {
+            "id": "s29577d5a282e-p8-C",
+            "text": "王方"
+          }
+        ],
+        "key": "s29577d5a282e-p8-C"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p9",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "他儿子在哪儿工作？",
+        "passage": "他在学校工作。他儿子叫大卫，在商店工作。",
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 商店. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 9
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p9-A",
+            "text": "学校"
+          },
+          {
+            "id": "s29577d5a282e-p9-B",
+            "text": "商店"
+          },
+          {
+            "id": "s29577d5a282e-p9-C",
+            "text": "医院"
+          }
+        ],
+        "key": "s29577d5a282e-p9-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p10",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Nhìn tranh, chọn đáp án thích hợp.",
+        "passage": null,
+        "image": "/chn113-study/learning-assets/question-crops/s29577d5a282e-10.webp",
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 天气太冷了. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 10
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p10-A",
+            "text": "天气太热了"
+          },
+          {
+            "id": "s29577d5a282e-p10-B",
+            "text": "天气太冷了"
+          },
+          {
+            "id": "s29577d5a282e-p10-C",
+            "text": "天气不热不冷"
+          },
+          {
+            "id": "s29577d5a282e-p10-D",
+            "text": "下雨了"
+          }
+        ],
+        "key": "s29577d5a282e-p10-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p11",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Nhìn tranh, chọn đáp án thích hợp.",
+        "passage": null,
+        "image": "/chn113-study/learning-assets/question-crops/s29577d5a282e-11.webp",
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 她在睡觉. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 11
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p11-A",
+            "text": "她在做菜"
+          },
+          {
+            "id": "s29577d5a282e-p11-B",
+            "text": "她在睡觉"
+          },
+          {
+            "id": "s29577d5a282e-p11-C",
+            "text": "她在看书"
+          },
+          {
+            "id": "s29577d5a282e-p11-D",
+            "text": "她在工作"
+          }
+        ],
+        "key": "s29577d5a282e-p11-B"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p12",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Nhìn tranh, chọn đáp án thích hợp.",
+        "passage": null,
+        "image": "/chn113-study/learning-assets/question-crops/s29577d5a282e-12.webp",
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 小猫在桌子上. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 12
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p12-A",
+            "text": "小猫在桌子下"
+          },
+          {
+            "id": "s29577d5a282e-p12-B",
+            "text": "小狗在椅子下"
+          },
+          {
+            "id": "s29577d5a282e-p12-C",
+            "text": "小猫在桌子上"
+          },
+          {
+            "id": "s29577d5a282e-p12-D",
+            "text": "小狗和小猫在椅子上"
+          }
+        ],
+        "key": "s29577d5a282e-p12-C"
+      },
+      {
+        "id": "collection2-s29577d5a282e-p13",
+        "section": "reading",
+        "kind": "choice",
+        "prompt": "Nhìn tranh, chọn đáp án thích hợp.",
+        "passage": null,
+        "image": "/chn113-study/learning-assets/question-crops/s29577d5a282e-13.webp",
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Đối chiếu nội dung câu/tranh: 请您坐这儿吧. Từ hỏi và đáp án phải cùng loại thông tin.",
+        "source": {
+          "id": "s29577d5a282e",
+          "filename": "Q13 (2).pdf",
+          "page": 13
+        },
+        "options": [
+          {
+            "id": "s29577d5a282e-p13-A",
+            "text": "我做中国菜"
+          },
+          {
+            "id": "s29577d5a282e-p13-B",
+            "text": "请您坐这儿吧"
+          },
+          {
+            "id": "s29577d5a282e-p13-C",
+            "text": "请喝中国茶"
+          },
+          {
+            "id": "s29577d5a282e-p13-D",
+            "text": "这儿有很多水果"
+          }
+        ],
+        "key": "s29577d5a282e-p13-B"
+      },
+      {
+        "id": "collection2-s6f160904bf61-match-26-r1",
+        "section": "reading",
+        "kind": "match",
+        "group": "collection2-match",
+        "prompt": "你爸爸在哪儿？",
+        "options": [
+          {
+            "id": "s6f160904bf61-match-26-A",
+            "text": "有一本书和一个杯子。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-B",
+            "text": "太热了，我不喜欢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-C",
+            "text": "他在学校呢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-D",
+            "text": "我不喜欢吃水果。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-E",
+            "text": "我住北京三天，星期五我回家。"
+          }
+        ],
+        "key": "s6f160904bf61-match-26-C",
+        "keyStatus": "derived",
+        "explanation": "Ghép theo chức năng hỏi–đáp: ai → người; ở đâu → nơi chốn; mấy giờ → giờ; bao nhiêu tiền → giá; có/không → câu xác nhận hoặc phủ định.",
+        "source": {
+          "id": "s6f160904bf61",
+          "filename": "Reading collection",
+          "page": 26
+        }
+      },
+      {
+        "id": "collection2-s6f160904bf61-match-26-r2",
+        "section": "reading",
+        "kind": "match",
+        "group": "collection2-match",
+        "prompt": "电脑后面有什么？",
+        "options": [
+          {
+            "id": "s6f160904bf61-match-26-A",
+            "text": "有一本书和一个杯子。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-B",
+            "text": "太热了，我不喜欢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-C",
+            "text": "他在学校呢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-D",
+            "text": "我不喜欢吃水果。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-E",
+            "text": "我住北京三天，星期五我回家。"
+          }
+        ],
+        "key": "s6f160904bf61-match-26-A",
+        "keyStatus": "derived",
+        "explanation": "Ghép theo chức năng hỏi–đáp: ai → người; ở đâu → nơi chốn; mấy giờ → giờ; bao nhiêu tiền → giá; có/không → câu xác nhận hoặc phủ định.",
+        "source": {
+          "id": "s6f160904bf61",
+          "filename": "Reading collection",
+          "page": 26
+        }
+      },
+      {
+        "id": "collection2-s6f160904bf61-match-26-r3",
+        "section": "reading",
+        "kind": "match",
+        "group": "collection2-match",
+        "prompt": "你想什么时候回家？",
+        "options": [
+          {
+            "id": "s6f160904bf61-match-26-A",
+            "text": "有一本书和一个杯子。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-B",
+            "text": "太热了，我不喜欢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-C",
+            "text": "他在学校呢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-D",
+            "text": "我不喜欢吃水果。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-E",
+            "text": "我住北京三天，星期五我回家。"
+          }
+        ],
+        "key": "s6f160904bf61-match-26-E",
+        "keyStatus": "derived",
+        "explanation": "Ghép theo chức năng hỏi–đáp: ai → người; ở đâu → nơi chốn; mấy giờ → giờ; bao nhiêu tiền → giá; có/không → câu xác nhận hoặc phủ định.",
+        "source": {
+          "id": "s6f160904bf61",
+          "filename": "Reading collection",
+          "page": 26
+        }
+      },
+      {
+        "id": "collection2-s6f160904bf61-match-26-r4",
+        "section": "reading",
+        "kind": "match",
+        "group": "collection2-match",
+        "prompt": "你爱吃水果吗？",
+        "options": [
+          {
+            "id": "s6f160904bf61-match-26-A",
+            "text": "有一本书和一个杯子。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-B",
+            "text": "太热了，我不喜欢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-C",
+            "text": "他在学校呢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-D",
+            "text": "我不喜欢吃水果。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-E",
+            "text": "我住北京三天，星期五我回家。"
+          }
+        ],
+        "key": "s6f160904bf61-match-26-D",
+        "keyStatus": "derived",
+        "explanation": "Ghép theo chức năng hỏi–đáp: ai → người; ở đâu → nơi chốn; mấy giờ → giờ; bao nhiêu tiền → giá; có/không → câu xác nhận hoặc phủ định.",
+        "source": {
+          "id": "s6f160904bf61",
+          "filename": "Reading collection",
+          "page": 26
+        }
+      },
+      {
+        "id": "collection2-s6f160904bf61-match-26-r5",
+        "section": "reading",
+        "kind": "match",
+        "group": "collection2-match",
+        "prompt": "北京的天气怎么样？",
+        "options": [
+          {
+            "id": "s6f160904bf61-match-26-A",
+            "text": "有一本书和一个杯子。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-B",
+            "text": "太热了，我不喜欢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-C",
+            "text": "他在学校呢。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-D",
+            "text": "我不喜欢吃水果。"
+          },
+          {
+            "id": "s6f160904bf61-match-26-E",
+            "text": "我住北京三天，星期五我回家。"
+          }
+        ],
+        "key": "s6f160904bf61-match-26-B",
+        "keyStatus": "derived",
+        "explanation": "Ghép theo chức năng hỏi–đáp: ai → người; ở đâu → nơi chốn; mấy giờ → giờ; bao nhiêu tiền → giá; có/không → câu xác nhận hoặc phủ định.",
+        "source": {
+          "id": "s6f160904bf61",
+          "filename": "Reading collection",
+          "page": 26
+        }
+      },
+      {
+        "id": "collection2-s4345ef97158d-q1",
+        "section": "writing",
+        "kind": "arrange",
+        "prompt": "Sắp xếp các từ thành câu hoàn chỉnh: 不爱/李小姐/吃/水果。",
+        "passage": null,
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Trật tự câu: chủ ngữ → thời gian/nơi chốn → động từ → tân ngữ. Cụm định ngữ đứng trước danh từ; từ hỏi nằm ở vị trí thông tin cần hỏi.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "tokens": [
+          "不爱",
+          "李小姐",
+          "吃",
+          "水果"
+        ],
+        "key": "李小姐不爱吃水果",
+        "alternatives": []
+      },
+      {
+        "id": "collection2-s4345ef97158d-q2",
+        "section": "writing",
+        "kind": "arrange",
+        "prompt": "Sắp xếp các từ thành câu hoàn chỉnh: 几点/你们/电影/去看？",
+        "passage": null,
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Trật tự câu: chủ ngữ → thời gian/nơi chốn → động từ → tân ngữ. Cụm định ngữ đứng trước danh từ; từ hỏi nằm ở vị trí thông tin cần hỏi.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "tokens": [
+          "几点",
+          "你们",
+          "电影",
+          "去看"
+        ],
+        "key": "你们几点去看电影",
+        "alternatives": []
+      },
+      {
+        "id": "collection2-s4345ef97158d-q3",
+        "section": "writing",
+        "kind": "arrange",
+        "prompt": "Sắp xếp các từ thành câu hoàn chỉnh: 的/这是/李老师/电话。",
+        "passage": null,
+        "image": null,
+        "keyStatus": "derived",
+        "review": false,
+        "explanation": "Trật tự câu: chủ ngữ → thời gian/nơi chốn → động từ → tân ngữ. Cụm định ngữ đứng trước danh từ; từ hỏi nằm ở vị trí thông tin cần hỏi.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "tokens": [
+          "的",
+          "这是",
+          "李老师",
+          "电话"
+        ],
+        "key": "这是李老师的电话",
+        "alternatives": []
+      },
+      {
+        "id": "collection2-s4345ef97158d-q4",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu hỏi cho phần được đánh dấu: 大卫在学做中国菜呢。",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Mẫu hỏi thông tin nổi bật trong câu. Kiểm tra phần được đánh dấu: ai → 谁, nơi → 哪儿, số lượng → 几/多少, thời gian → 什么时候/几点, trạng thái → 怎么样. Nếu nguồn mất gạch chân, câu mẫu chỉ minh họa một cách hỏi.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "大卫在做什么呢？"
+      },
+      {
+        "id": "collection2-s4345ef97158d-q5",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu hỏi cho phần được đánh dấu: 桌子上有五本书。",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Mẫu hỏi thông tin nổi bật trong câu. Kiểm tra phần được đánh dấu: ai → 谁, nơi → 哪儿, số lượng → 几/多少, thời gian → 什么时候/几点, trạng thái → 怎么样. Nếu nguồn mất gạch chân, câu mẫu chỉ minh họa một cách hỏi.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "桌子上有几本书？"
+      },
+      {
+        "id": "collection2-s4345ef97158d-q6",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu hỏi cho phần được đánh dấu: 谢朋去学校看书。",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Mẫu hỏi thông tin nổi bật trong câu. Kiểm tra phần được đánh dấu: ai → 谁, nơi → 哪儿, số lượng → 几/多少, thời gian → 什么时候/几点, trạng thái → 怎么样. Nếu nguồn mất gạch chân, câu mẫu chỉ minh họa một cách hỏi.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "谢朋去哪儿看书？"
+      },
+      {
+        "id": "collection2-s4345ef97158d-q7",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu có ít nhất 5 chữ Hán, sử dụng từ: 下雨",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Câu tự viết cần có ít nhất 5 chữ Hán, chứa từ yêu cầu và có nghĩa, đúng trật tự. Kiểm tra hình thức không thay thế đánh giá ngữ nghĩa.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "今天下午会下雨。"
+      },
+      {
+        "id": "collection2-s4345ef97158d-q8",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu có ít nhất 5 chữ Hán, sử dụng từ: 身体",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Câu tự viết cần có ít nhất 5 chữ Hán, chứa từ yêu cầu và có nghĩa, đúng trật tự. Kiểm tra hình thức không thay thế đánh giá ngữ nghĩa.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "我妈妈的身体很好。"
+      },
+      {
+        "id": "collection2-s4345ef97158d-q9",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu có ít nhất 5 chữ Hán, sử dụng từ: 点",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Câu tự viết cần có ít nhất 5 chữ Hán, chứa từ yêu cầu và có nghĩa, đúng trật tự. Kiểm tra hình thức không thay thế đánh giá ngữ nghĩa.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "我上午八点去学校。"
+      },
+      {
+        "id": "collection2-s4345ef97158d-q10",
+        "section": "writing",
+        "kind": "text",
+        "prompt": "Đặt câu có ít nhất 5 chữ Hán, sử dụng từ: 小猫",
+        "passage": null,
+        "image": null,
+        "keyStatus": "inferred",
+        "review": true,
+        "explanation": "Câu tự viết cần có ít nhất 5 chữ Hán, chứa từ yêu cầu và có nghĩa, đúng trật tự. Kiểm tra hình thức không thay thế đánh giá ngữ nghĩa.",
+        "source": {
+          "id": "s4345ef97158d",
+          "filename": "paper (1).pdf",
+          "page": 1
+        },
+        "key": "小猫在桌子下面。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,949 @@
+{
+  "base": "http://127.0.0.1:5191/chn113-study/",
+  "total": 156,
+  "failed": 0,
+  "playback": {
+    "time": 0.463199,
+    "paused": false
+  },
+  "overflow": false,
+  "errors": [],
+  "files": [
+    {
+      "url": "/learning-assets/original-media/s64554fc92d9a.mp3",
+      "duration": 153.61197916666666,
+      "peak": 0.38980424404144287,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sbb3e8311e297.mp3",
+      "duration": 138.09597916666667,
+      "peak": 0.3670337200164795,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s08f51bd4bb73.mp3",
+      "duration": 203.72397916666668,
+      "peak": 0.41108986735343933,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s686e657635c4.mp3",
+      "duration": 238.75197916666667,
+      "peak": 0.4056103825569153,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s87c166cf34b3.mp3",
+      "duration": 147.56397916666666,
+      "peak": 0.3420073986053467,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7ef0ed632bab.mp3",
+      "duration": 159.91197916666667,
+      "peak": 0.373542845249176,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s9c6b74a8ba99.mp3",
+      "duration": 209.80797916666666,
+      "peak": 0.45240604877471924,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s349c6c16dcf2.mp3",
+      "duration": 243.86397916666667,
+      "peak": 0.42835623025894165,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s70d6221a235b.mp3",
+      "duration": 153.05141666666665,
+      "peak": 0.40601012110710144,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3867087e6ab5.mp3",
+      "duration": 156.36897916666666,
+      "peak": 0.5056113600730896,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s0ca29e0936db.mp3",
+      "duration": 209.8155,
+      "peak": 0.48099350929260254,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7c9a634f531b.mp3",
+      "duration": 228.4146875,
+      "peak": 0.4714522957801819,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8429b22df784.mp3",
+      "duration": 154.46202083333333,
+      "peak": 0.46279412508010864,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd0076ce4d8ec.mp3",
+      "duration": 158.48489583333333,
+      "peak": 0.37876129150390625,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s08e52baf9069.mp3",
+      "duration": 183.17060416666666,
+      "peak": 0.4850907325744629,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7395383be06f.mp3",
+      "duration": 231.34039583333333,
+      "peak": 0.46466270089149475,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7e8c7aa5e4bd.mp3",
+      "duration": 149.81329166666666,
+      "peak": 0.3437581956386566,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd2bea5c83e78.mp3",
+      "duration": 159.211125,
+      "peak": 0.3493707776069641,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s651c804be48a.mp3",
+      "duration": 223.1035625,
+      "peak": 0.3802344799041748,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7f1a03a1dfc4.mp3",
+      "duration": 249.6719375,
+      "peak": 0.34806516766548157,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/scaf7528b3d5f.mp3",
+      "duration": 150.32183333333333,
+      "peak": 0.31422823667526245,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3d5efc613048.mp3",
+      "duration": 150.27954166666666,
+      "peak": 0.37659257650375366,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s5d9726ca0f3f.mp3",
+      "duration": 210.2091875,
+      "peak": 0.40852808952331543,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se16336b5714f.mp3",
+      "duration": 270.092,
+      "peak": 0.4131181240081787,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s30994d50832b.mp3",
+      "duration": 141.74914583333333,
+      "peak": 0.65602707862854,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/saef54009c943.mp3",
+      "duration": 153.0080625,
+      "peak": 0.7320045232772827,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s01e0c0faf7e6.mp3",
+      "duration": 205.40410416666666,
+      "peak": 0.626949667930603,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s5a096233f0ce.mp3",
+      "duration": 276.4418125,
+      "peak": 0.5803583860397339,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8362f77d3f10.mp3",
+      "duration": 147.95754166666666,
+      "peak": 0.3804945945739746,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8c4109e4f37d.mp3",
+      "duration": 163.0563125,
+      "peak": 0.3976348638534546,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s626a764b9f40.mp3",
+      "duration": 210.12897916666665,
+      "peak": 0.43128183484077454,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s52ce95bfe08d.mp3",
+      "duration": 230.191,
+      "peak": 0.42561495304107666,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sbb026c1cd11a.mp3",
+      "duration": 35.526520833333336,
+      "peak": 0.35789158940315247,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc28cb9a487ec.mp3",
+      "duration": 20.845708333333334,
+      "peak": 0.34656429290771484,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc785a83ce50c.mp3",
+      "duration": 16.065291666666667,
+      "peak": 0.33282825350761414,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s507d95df3a29.mp3",
+      "duration": 17.1624375,
+      "peak": 0.40443724393844604,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd3cad4e37597.mp3",
+      "duration": 76.95672916666666,
+      "peak": 0.38752979040145874,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd71a0e408306.mp3",
+      "duration": 70.34775,
+      "peak": 0.322734534740448,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sfcf4c268ddc5.mp3",
+      "duration": 36.623666666666665,
+      "peak": 0.3614453673362732,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf0a3566eda8c.mp3",
+      "duration": 30.56325,
+      "peak": 0.45632651448249817,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc1758080a755.mp3",
+      "duration": 43.62447916666667,
+      "peak": 0.3533766269683838,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s306901980e55.mp3",
+      "duration": 20.32325,
+      "peak": 0.34728312492370605,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s98b216b078ef.mp3",
+      "duration": 20.89795833333333,
+      "peak": 0.353812038898468,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sde71f8800c1b.mp3",
+      "duration": 20.506104166666667,
+      "peak": 0.31740957498550415,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sa5513aa57988.mp3",
+      "duration": 15.20325,
+      "peak": 0.34828221797943115,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3410fa66c052.mp3",
+      "duration": 14.6024375,
+      "peak": 0.3171311020851135,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd6a87ddd6ef8.mp3",
+      "duration": 69.92979166666667,
+      "peak": 0.37763869762420654,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s6de283725f21.mp3",
+      "duration": 45.583666666666666,
+      "peak": 0.3896525204181671,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s37555a0684ec.mp3",
+      "duration": 29.675083333333333,
+      "peak": 0.31533586978912354,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sa1067607e1ab.mp3",
+      "duration": 47.151,
+      "peak": 0.5095375776290894,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se670a4cca29a.mp3",
+      "duration": 50.755916666666664,
+      "peak": 0.31736308336257935,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sb824e3209151.mp3",
+      "duration": 48.013041666666666,
+      "peak": 0.2943139672279358,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sda39cdd79282.mp3",
+      "duration": 30.40652083333333,
+      "peak": 0.3368539810180664,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s23c416986f50.mp3",
+      "duration": 24.26775,
+      "peak": 0.5079628825187683,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/saaf953e94d51.mp3",
+      "duration": 25.417125,
+      "peak": 0.33877208828926086,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s83a7113b7944.mp3",
+      "duration": 27.4024375,
+      "peak": 0.3661412000656128,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s5fad87a7843c.mp3",
+      "duration": 28.6563125,
+      "peak": 0.3234509825706482,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf22bc2079055.mp3",
+      "duration": 31.634270833333332,
+      "peak": 0.2862884998321533,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/seb3ddb24c40b.mp3",
+      "duration": 47.69958333333334,
+      "peak": 0.29457372426986694,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sa67c88aff917.mp3",
+      "duration": 31.60814583333333,
+      "peak": 0.37960273027420044,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s0dae496b6479.mp3",
+      "duration": 24.058770833333334,
+      "peak": 0.39835041761398315,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s683bad35f29b.mp3",
+      "duration": 30.798354166666666,
+      "peak": 0.4360974431037903,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se21f808f9b18.mp3",
+      "duration": 48.95345833333333,
+      "peak": 0.4969521760940552,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf6fc4c56e343.mp3",
+      "duration": 37.485708333333335,
+      "peak": 0.5240845680236816,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s4db573733c18.mp3",
+      "duration": 39.39264583333333,
+      "peak": 0.4004710018634796,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc6df8dbaf741.mp3",
+      "duration": 47.2555,
+      "peak": 0.35087350010871887,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sa451eabdd657.mp3",
+      "duration": 27.4546875,
+      "peak": 0.3683808445930481,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se98d19b29115.mp3",
+      "duration": 38.24325,
+      "peak": 0.3828512132167816,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s43e7b1d72c79.mp3",
+      "duration": 25.4955,
+      "peak": 0.29614153504371643,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3cb4d52c01f1.mp3",
+      "duration": 24.7640625,
+      "peak": 0.34554359316825867,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sfabb05928946.mp3",
+      "duration": 15.333875,
+      "peak": 0.40479913353919983,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8fd5d2b12092.mp3",
+      "duration": 44.90447916666667,
+      "peak": 0.34850531816482544,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s04829c1c1ecf.mp3",
+      "duration": 44.408145833333336,
+      "peak": 0.31255653500556946,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s0308584e9340.mp3",
+      "duration": 25.182020833333333,
+      "peak": 0.36981937289237976,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s2fd2fd24704b.mp3",
+      "duration": 38.191,
+      "peak": 0.3420572280883789,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s9942ec799421.mp3",
+      "duration": 35.500395833333336,
+      "peak": 0.30032432079315186,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8fce16f07489.mp3",
+      "duration": 32.02610416666667,
+      "peak": 0.3112558424472809,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s1006e952043f.mp3",
+      "duration": 29.518354166666665,
+      "peak": 0.4333637058734894,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s263afaa5fc9b.mp3",
+      "duration": 34.664479166666666,
+      "peak": 0.3167606294155121,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf26f8fbd2741.mp3",
+      "duration": 44.721625,
+      "peak": 0.2565777003765106,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sdda6b8107fd1.mp3",
+      "duration": 40.09795833333333,
+      "peak": 0.34456756711006165,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se0c1ba8b5a02.mp3",
+      "duration": 28.6824375,
+      "peak": 0.36787426471710205,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s5222840b469e.mp3",
+      "duration": 31.2424375,
+      "peak": 0.421302855014801,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7a84f4e27aa2.mp3",
+      "duration": 48.875083333333336,
+      "peak": 0.29398924112319946,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sed9ec6e28a87.mp3",
+      "duration": 36.597541666666665,
+      "peak": 0.329553484916687,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s66ab05d06db8.mp3",
+      "duration": 30.693875,
+      "peak": 0.4022066593170166,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7ae484cc4b74.mp3",
+      "duration": 32.182854166666665,
+      "peak": 0.33398622274398804,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8a8934759562.mp3",
+      "duration": 52.035916666666665,
+      "peak": 0.2927735447883606,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd1cdd1bb417c.mp3",
+      "duration": 46.10610416666667,
+      "peak": 0.2756379246711731,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s399c797e4740.mp3",
+      "duration": 35.474270833333335,
+      "peak": 0.3061790466308594,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s4081423fc1c4.mp3",
+      "duration": 21.237541666666665,
+      "peak": 0.3903231620788574,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se9106de704d6.mp3",
+      "duration": 50.20733333333333,
+      "peak": 0.27665650844573975,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s07e041f21d6b.mp3",
+      "duration": 41.16897916666667,
+      "peak": 0.3735179603099823,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s99b9162c6340.mp3",
+      "duration": 36.83264583333333,
+      "peak": 0.31387436389923096,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/se34a88dca082.mp3",
+      "duration": 27.872645833333333,
+      "peak": 0.363508015871048,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s85681df57daf.mp3",
+      "duration": 15.098770833333333,
+      "peak": 0.22540751099586487,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s21945e5008d5.mp3",
+      "duration": 46.5501875,
+      "peak": 0.33636265993118286,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf8469297dd5d.mp3",
+      "duration": 45.00897916666667,
+      "peak": 0.3120996057987213,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3ef7c3ea30bc.mp3",
+      "duration": 35.68325,
+      "peak": 0.31869184970855713,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s5b6c0d26d427.mp3",
+      "duration": 29.675083333333333,
+      "peak": 0.3196559548377991,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3ca4c0d72ba0.mp3",
+      "duration": 28.551833333333335,
+      "peak": 0.31737348437309265,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc8c4d938d1a9.mp3",
+      "duration": 20.32325,
+      "peak": 0.2913414239883423,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s4178ee839577.mp3",
+      "duration": 43.441625,
+      "peak": 0.3134565055370331,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sb7f13b64da20.mp3",
+      "duration": 34.115916666666664,
+      "peak": 0.3041328191757202,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7f98f855c30d.mp3",
+      "duration": 34.97795833333333,
+      "peak": 0.30979418754577637,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf034b70aad4d.mp3",
+      "duration": 54.909375,
+      "peak": 0.2875012755393982,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf79980571ae9.mp3",
+      "duration": 41.142854166666666,
+      "peak": 0.31777381896972656,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s2eeea594d06a.mp3",
+      "duration": 38.53060416666667,
+      "peak": 0.3663497567176819,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8da8866a1d2f.mp3",
+      "duration": 38.13877083333333,
+      "peak": 0.3194219768047333,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s4918360ea416.mp3",
+      "duration": 56.555083333333336,
+      "peak": 0.44623103737831116,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s87433c7e8884.mp3",
+      "duration": 35.657125,
+      "peak": 0.33396172523498535,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s94066d2cdf27.mp3",
+      "duration": 39.862854166666665,
+      "peak": 0.2564355731010437,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sa5ef4e737c65.mp3",
+      "duration": 39.836729166666665,
+      "peak": 0.3690778613090515,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf2abfdc1f229.mp3",
+      "duration": 52.55835416666667,
+      "peak": 0.35179007053375244,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s2032373c633f.mp3",
+      "duration": 39.5755,
+      "peak": 0.27388691902160645,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s0b7bf2208dd1.mp3",
+      "duration": 30.0669375,
+      "peak": 0.33467012643814087,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s1b3956984523.mp3",
+      "duration": 29.361625,
+      "peak": 0.31676405668258667,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s0c8a9553c06e.mp3",
+      "duration": 53.551,
+      "peak": 0.32736390829086304,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/scddb57b6300d.mp3",
+      "duration": 39.41877083333333,
+      "peak": 0.41632819175720215,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s382b87de8272.mp3",
+      "duration": 99.0563125,
+      "peak": 0.4518231153488159,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s542b55f6f82d.mp3",
+      "duration": 68.3101875,
+      "peak": 0.2679201364517212,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s87501e2cf684.mp3",
+      "duration": 162.27264583333334,
+      "peak": 0.33773261308670044,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7921ecd85e24.mp3",
+      "duration": 153.65222916666667,
+      "peak": 0.3148460388183594,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s12b8fbb18cb4.mp3",
+      "duration": 164.83264583333334,
+      "peak": 0.4237588047981262,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf1607530919a.mp3",
+      "duration": 103.18366666666667,
+      "peak": 0.3777306079864502,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sd30d4463706d.mp3",
+      "duration": 69.30285416666666,
+      "peak": 0.3242434859275818,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s679832be8cb8.mp3",
+      "duration": 150.961625,
+      "peak": 0.2351265400648117,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s749de51b4b61.mp3",
+      "duration": 156.83916666666667,
+      "peak": 0.41434794664382935,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s466234f4c740.mp3",
+      "duration": 149.15916666666666,
+      "peak": 0.2839778661727905,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sec9ae4109d95.mp3",
+      "duration": 451.0563125,
+      "peak": 0.4392913281917572,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sb32ed121b946.mp3",
+      "duration": 162.63835416666666,
+      "peak": 0.4567640721797943,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s18cb9f2ae58a.mp3",
+      "duration": 437.2375416666667,
+      "peak": 0.38204634189605713,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s3d2fdcad08bb.mp3",
+      "duration": 159.08570833333334,
+      "peak": 0.25765663385391235,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sdfa5d8a7c9ef.mp3",
+      "duration": 457.0644791666667,
+      "peak": 0.3881732225418091,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s012ed2fb641c.mp3",
+      "duration": 233.01222916666666,
+      "peak": 0.3694854974746704,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sbbe4bbc35e1b.mp3",
+      "duration": 465.3714166666667,
+      "peak": 0.4044879078865051,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s1c60574d7dd9.mp3",
+      "duration": 177.2146875,
+      "peak": 0.340475857257843,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sdcad523a2d28.mp3",
+      "duration": 462.5501875,
+      "peak": 0.34748440980911255,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s9d2b946d4847.mp3",
+      "duration": 185.23427083333334,
+      "peak": 0.3747154176235199,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/scfcd409b7441.mp3",
+      "duration": 442.56652083333336,
+      "peak": 0.5157071352005005,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc7d11bf8eec0.mp3",
+      "duration": 175.67345833333334,
+      "peak": 0.34313473105430603,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s18f3da9c57ea.mp3",
+      "duration": 450.2203958333333,
+      "peak": 0.35410523414611816,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sebe0cdfb46cd.mp3",
+      "duration": 183.90202083333332,
+      "peak": 0.4528335928916931,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s7029b13fe26d.mp3",
+      "duration": 437.629375,
+      "peak": 0.366662859916687,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s48c0014aeead.mp3",
+      "duration": 241.65877083333334,
+      "peak": 0.3149072229862213,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s2059591f7b31.mp3",
+      "duration": 524.9567291666667,
+      "peak": 0.422699898481369,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s427c134c5632.mp3",
+      "duration": 96.91427083333333,
+      "peak": 0.46601402759552,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s861f0189dd95.mp3",
+      "duration": 535.9281458333334,
+      "peak": 0.3695440888404846,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sf4d9cf011b98.mp3",
+      "duration": 169.01222916666666,
+      "peak": 0.2885492742061615,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s339effca9d47.mp3",
+      "duration": 529.4236666666667,
+      "peak": 0.3881602883338928,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s5b3ebe09aa0f.mp3",
+      "duration": 170.08325,
+      "peak": 0.4552101194858551,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s8260457ca2b9.mp3",
+      "duration": 537.2081458333333,
+      "peak": 0.38577204942703247,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sa689af5382c2.mp3",
+      "duration": 164.10120833333335,
+      "peak": 0.38577744364738464,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s233115dfaf05.mp3",
+      "duration": 542.3020208333334,
+      "peak": 0.4139031767845154,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sc87aa425bed3.mp3",
+      "duration": 168.09795833333334,
+      "peak": 0.49426090717315674,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/s4968edaa0252.mp3",
+      "duration": 882.9126458333334,
+      "peak": 0.41537460684776306,
+      "type": "audio/mpeg"
+    }
+  ]
+}

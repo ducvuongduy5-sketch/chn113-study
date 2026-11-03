@@ -1,0 +1,752 @@
+[
+  {
+    "index": 1,
+    "label": "爱",
+    "hanzi": "爱"
+  },
+  {
+    "index": 2,
+    "label": "八",
+    "hanzi": "八"
+  },
+  {
+    "index": 3,
+    "label": "爸爸",
+    "hanzi": "爸爸"
+  },
+  {
+    "index": 4,
+    "label": "杯子",
+    "hanzi": "杯子"
+  },
+  {
+    "index": 5,
+    "label": "北京",
+    "hanzi": "北京"
+  },
+  {
+    "index": 6,
+    "label": "本",
+    "hanzi": "本"
+  },
+  {
+    "index": 7,
+    "label": "不",
+    "hanzi": "不"
+  },
+  {
+    "index": 8,
+    "label": "不客气",
+    "hanzi": "不客气"
+  },
+  {
+    "index": 9,
+    "label": "菜",
+    "hanzi": "菜"
+  },
+  {
+    "index": 10,
+    "label": "茶",
+    "hanzi": "茶"
+  },
+  {
+    "index": 11,
+    "label": "吃",
+    "hanzi": "吃"
+  },
+  {
+    "index": 12,
+    "label": "出租车",
+    "hanzi": "出租车"
+  },
+  {
+    "index": 13,
+    "label": "打电话",
+    "hanzi": "打电话"
+  },
+  {
+    "index": 14,
+    "label": "大",
+    "hanzi": "大"
+  },
+  {
+    "index": 15,
+    "label": "的",
+    "hanzi": "的"
+  },
+  {
+    "index": 16,
+    "label": "点",
+    "hanzi": "点"
+  },
+  {
+    "index": 17,
+    "label": "电脑",
+    "hanzi": "电脑"
+  },
+  {
+    "index": 18,
+    "label": "电视",
+    "hanzi": "电视"
+  },
+  {
+    "index": 19,
+    "label": "电影",
+    "hanzi": "电影"
+  },
+  {
+    "index": 20,
+    "label": "东西",
+    "hanzi": "东西"
+  },
+  {
+    "index": 21,
+    "label": "都",
+    "hanzi": "都"
+  },
+  {
+    "index": 22,
+    "label": "读",
+    "hanzi": "读"
+  },
+  {
+    "index": 23,
+    "label": "对不起",
+    "hanzi": "对不起"
+  },
+  {
+    "index": 24,
+    "label": "多",
+    "hanzi": "多"
+  },
+  {
+    "index": 25,
+    "label": "多少",
+    "hanzi": "多少"
+  },
+  {
+    "index": 26,
+    "label": "儿子",
+    "hanzi": "儿子"
+  },
+  {
+    "index": 27,
+    "label": "二",
+    "hanzi": "二"
+  },
+  {
+    "index": 28,
+    "label": "饭馆",
+    "hanzi": "饭馆"
+  },
+  {
+    "index": 29,
+    "label": "飞机",
+    "hanzi": "飞机"
+  },
+  {
+    "index": 30,
+    "label": "分钟",
+    "hanzi": "分钟"
+  },
+  {
+    "index": 31,
+    "label": "高兴",
+    "hanzi": "高兴"
+  },
+  {
+    "index": 32,
+    "label": "个",
+    "hanzi": "个"
+  },
+  {
+    "index": 33,
+    "label": "工作",
+    "hanzi": "工作"
+  },
+  {
+    "index": 34,
+    "label": "狗",
+    "hanzi": "狗"
+  },
+  {
+    "index": 35,
+    "label": "汉语",
+    "hanzi": "汉语"
+  },
+  {
+    "index": 36,
+    "label": "好",
+    "hanzi": "好"
+  },
+  {
+    "index": 37,
+    "label": "喝",
+    "hanzi": "喝"
+  },
+  {
+    "index": 38,
+    "label": "和",
+    "hanzi": "和"
+  },
+  {
+    "index": 39,
+    "label": "很",
+    "hanzi": "很"
+  },
+  {
+    "index": 40,
+    "label": "后面",
+    "hanzi": "后面"
+  },
+  {
+    "index": 41,
+    "label": "回",
+    "hanzi": "回"
+  },
+  {
+    "index": 42,
+    "label": "会",
+    "hanzi": "会"
+  },
+  {
+    "index": 43,
+    "label": "火车站",
+    "hanzi": "火车站"
+  },
+  {
+    "index": 44,
+    "label": "几",
+    "hanzi": "几"
+  },
+  {
+    "index": 45,
+    "label": "家",
+    "hanzi": "家"
+  },
+  {
+    "index": 46,
+    "label": "叫",
+    "hanzi": "叫"
+  },
+  {
+    "index": 47,
+    "label": "她",
+    "hanzi": "她"
+  },
+  {
+    "index": 48,
+    "label": "今天",
+    "hanzi": "今天"
+  },
+  {
+    "index": 49,
+    "label": "九",
+    "hanzi": "九"
+  },
+  {
+    "index": 50,
+    "label": "开",
+    "hanzi": "开"
+  },
+  {
+    "index": 51,
+    "label": "看",
+    "hanzi": "看"
+  },
+  {
+    "index": 52,
+    "label": "看见",
+    "hanzi": "看见"
+  },
+  {
+    "index": 53,
+    "label": "块",
+    "hanzi": "块"
+  },
+  {
+    "index": 54,
+    "label": "来",
+    "hanzi": "来"
+  },
+  {
+    "index": 55,
+    "label": "老师",
+    "hanzi": "老师"
+  },
+  {
+    "index": 56,
+    "label": "冷",
+    "hanzi": "冷"
+  },
+  {
+    "index": 57,
+    "label": "里",
+    "hanzi": "里"
+  },
+  {
+    "index": 58,
+    "label": "了",
+    "hanzi": "了"
+  },
+  {
+    "index": 59,
+    "label": "零",
+    "hanzi": "零"
+  },
+  {
+    "index": 60,
+    "label": "六",
+    "hanzi": "六"
+  },
+  {
+    "index": 61,
+    "label": "妈妈",
+    "hanzi": "妈妈"
+  },
+  {
+    "index": 62,
+    "label": "吗",
+    "hanzi": "吗"
+  },
+  {
+    "index": 63,
+    "label": "买",
+    "hanzi": "买"
+  },
+  {
+    "index": 64,
+    "label": "猫",
+    "hanzi": "猫"
+  },
+  {
+    "index": 65,
+    "label": "没",
+    "hanzi": "没"
+  },
+  {
+    "index": 66,
+    "label": "没关系",
+    "hanzi": "没关系"
+  },
+  {
+    "index": 67,
+    "label": "米饭",
+    "hanzi": "米饭"
+  },
+  {
+    "index": 68,
+    "label": "名字",
+    "hanzi": "名字"
+  },
+  {
+    "index": 69,
+    "label": "明天",
+    "hanzi": "明天"
+  },
+  {
+    "index": 70,
+    "label": "哪（哪儿）",
+    "hanzi": "哪"
+  },
+  {
+    "index": 71,
+    "label": "那（那儿）",
+    "hanzi": "那"
+  },
+  {
+    "index": 72,
+    "label": "呢",
+    "hanzi": "呢"
+  },
+  {
+    "index": 73,
+    "label": "能",
+    "hanzi": "能"
+  },
+  {
+    "index": 74,
+    "label": "你",
+    "hanzi": "你"
+  },
+  {
+    "index": 75,
+    "label": "年",
+    "hanzi": "年"
+  },
+  {
+    "index": 76,
+    "label": "女儿",
+    "hanzi": "女儿"
+  },
+  {
+    "index": 77,
+    "label": "朋友",
+    "hanzi": "朋友"
+  },
+  {
+    "index": 78,
+    "label": "漂亮",
+    "hanzi": "漂亮"
+  },
+  {
+    "index": 79,
+    "label": "苹果",
+    "hanzi": "苹果"
+  },
+  {
+    "index": 80,
+    "label": "七",
+    "hanzi": "七"
+  },
+  {
+    "index": 81,
+    "label": "前面",
+    "hanzi": "前面"
+  },
+  {
+    "index": 82,
+    "label": "钱",
+    "hanzi": "钱"
+  },
+  {
+    "index": 83,
+    "label": "请",
+    "hanzi": "请"
+  },
+  {
+    "index": 84,
+    "label": "去",
+    "hanzi": "去"
+  },
+  {
+    "index": 85,
+    "label": "热",
+    "hanzi": "热"
+  },
+  {
+    "index": 86,
+    "label": "人",
+    "hanzi": "人"
+  },
+  {
+    "index": 87,
+    "label": "认识",
+    "hanzi": "认识"
+  },
+  {
+    "index": 88,
+    "label": "日",
+    "hanzi": "日"
+  },
+  {
+    "index": 89,
+    "label": "三",
+    "hanzi": "三"
+  },
+  {
+    "index": 90,
+    "label": "商店",
+    "hanzi": "商店"
+  },
+  {
+    "index": 91,
+    "label": "上",
+    "hanzi": "上"
+  },
+  {
+    "index": 92,
+    "label": "上午",
+    "hanzi": "上午"
+  },
+  {
+    "index": 93,
+    "label": "少",
+    "hanzi": "少"
+  },
+  {
+    "index": 94,
+    "label": "十",
+    "hanzi": "十"
+  },
+  {
+    "index": 95,
+    "label": "什么",
+    "hanzi": "什么"
+  },
+  {
+    "index": 96,
+    "label": "时候",
+    "hanzi": "时候"
+  },
+  {
+    "index": 97,
+    "label": "是",
+    "hanzi": "是"
+  },
+  {
+    "index": 98,
+    "label": "书",
+    "hanzi": "书"
+  },
+  {
+    "index": 99,
+    "label": "谁",
+    "hanzi": "谁"
+  },
+  {
+    "index": 100,
+    "label": "水",
+    "hanzi": "水"
+  },
+  {
+    "index": 101,
+    "label": "水果",
+    "hanzi": "水果"
+  },
+  {
+    "index": 102,
+    "label": "睡觉",
+    "hanzi": "睡觉"
+  },
+  {
+    "index": 103,
+    "label": "说话",
+    "hanzi": "说话"
+  },
+  {
+    "index": 104,
+    "label": "四",
+    "hanzi": "四"
+  },
+  {
+    "index": 105,
+    "label": "岁",
+    "hanzi": "岁"
+  },
+  {
+    "index": 106,
+    "label": "他",
+    "hanzi": "他"
+  },
+  {
+    "index": 107,
+    "label": "太",
+    "hanzi": "太"
+  },
+  {
+    "index": 108,
+    "label": "天气",
+    "hanzi": "天气"
+  },
+  {
+    "index": 109,
+    "label": "听",
+    "hanzi": "听"
+  },
+  {
+    "index": 110,
+    "label": "同学",
+    "hanzi": "同学"
+  },
+  {
+    "index": 111,
+    "label": "喂",
+    "hanzi": "喂"
+  },
+  {
+    "index": 112,
+    "label": "我",
+    "hanzi": "我"
+  },
+  {
+    "index": 113,
+    "label": "我们",
+    "hanzi": "我们"
+  },
+  {
+    "index": 114,
+    "label": "五",
+    "hanzi": "五"
+  },
+  {
+    "index": 115,
+    "label": "喜欢",
+    "hanzi": "喜欢"
+  },
+  {
+    "index": 116,
+    "label": "下",
+    "hanzi": "下"
+  },
+  {
+    "index": 117,
+    "label": "下午",
+    "hanzi": "下午"
+  },
+  {
+    "index": 118,
+    "label": "下雨",
+    "hanzi": "下雨"
+  },
+  {
+    "index": 119,
+    "label": "先生",
+    "hanzi": "先生"
+  },
+  {
+    "index": 120,
+    "label": "现在",
+    "hanzi": "现在"
+  },
+  {
+    "index": 121,
+    "label": "想",
+    "hanzi": "想"
+  },
+  {
+    "index": 122,
+    "label": "小",
+    "hanzi": "小"
+  },
+  {
+    "index": 123,
+    "label": "小姐",
+    "hanzi": "小姐"
+  },
+  {
+    "index": 124,
+    "label": "些",
+    "hanzi": "些"
+  },
+  {
+    "index": 125,
+    "label": "写",
+    "hanzi": "写"
+  },
+  {
+    "index": 126,
+    "label": "谢谢",
+    "hanzi": "谢谢"
+  },
+  {
+    "index": 127,
+    "label": "星期",
+    "hanzi": "星期"
+  },
+  {
+    "index": 128,
+    "label": "学生",
+    "hanzi": "学生"
+  },
+  {
+    "index": 129,
+    "label": "学习",
+    "hanzi": "学习"
+  },
+  {
+    "index": 130,
+    "label": "学校",
+    "hanzi": "学校"
+  },
+  {
+    "index": 131,
+    "label": "一",
+    "hanzi": "一"
+  },
+  {
+    "index": 132,
+    "label": "衣服",
+    "hanzi": "衣服"
+  },
+  {
+    "index": 133,
+    "label": "医生",
+    "hanzi": "医生"
+  },
+  {
+    "index": 134,
+    "label": "医院",
+    "hanzi": "医院"
+  },
+  {
+    "index": 135,
+    "label": "椅子",
+    "hanzi": "椅子"
+  },
+  {
+    "index": 136,
+    "label": "有",
+    "hanzi": "有"
+  },
+  {
+    "index": 137,
+    "label": "月",
+    "hanzi": "月"
+  },
+  {
+    "index": 138,
+    "label": "再见",
+    "hanzi": "再见"
+  },
+  {
+    "index": 139,
+    "label": "在",
+    "hanzi": "在"
+  },
+  {
+    "index": 140,
+    "label": "怎么",
+    "hanzi": "怎么"
+  },
+  {
+    "index": 141,
+    "label": "怎么样",
+    "hanzi": "怎么样"
+  },
+  {
+    "index": 142,
+    "label": "这（这儿）",
+    "hanzi": "这"
+  },
+  {
+    "index": 143,
+    "label": "中国",
+    "hanzi": "中国"
+  },
+  {
+    "index": 144,
+    "label": "中午",
+    "hanzi": "中午"
+  },
+  {
+    "index": 145,
+    "label": "住",
+    "hanzi": "住"
+  },
+  {
+    "index": 146,
+    "label": "桌子",
+    "hanzi": "桌子"
+  },
+  {
+    "index": 147,
+    "label": "字",
+    "hanzi": "字"
+  },
+  {
+    "index": 148,
+    "label": "昨天",
+    "hanzi": "昨天"
+  },
+  {
+    "index": 149,
+    "label": "坐",
+    "hanzi": "坐"
+  },
+  {
+    "index": 150,
+    "label": "做",
+    "hanzi": "做"
+  }
+]

@@ -1,0 +1,6025 @@
+[
+  {
+    "id": "hsk20-1-001",
+    "hanzi": "爱",
+    "sourceLabel": "爱",
+    "aliases": [],
+    "pinyin": "ài",
+    "meaning": "yêu, thích",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-61"
+    ],
+    "example": {
+      "hanzi": "我爱妈妈。",
+      "pinyin": "Wǒ ài māma.",
+      "meaning": "Tôi yêu mẹ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 1,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ai4"
+  },
+  {
+    "id": "hsk20-1-002",
+    "hanzi": "八",
+    "sourceLabel": "八",
+    "aliases": [],
+    "pinyin": "bā",
+    "meaning": "tám",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "现在八点。",
+      "pinyin": "Xiànzài bā diǎn.",
+      "meaning": "Bây giờ là tám giờ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 2,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ba1"
+  },
+  {
+    "id": "hsk20-1-003",
+    "hanzi": "爸爸",
+    "sourceLabel": "爸爸",
+    "aliases": [],
+    "pinyin": "bàba",
+    "meaning": "cha, bố",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-27"
+    ],
+    "example": {
+      "hanzi": "我爸爸是医生。",
+      "pinyin": "Wǒ bàba shì yīshēng.",
+      "meaning": "Bố tôi là bác sĩ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 3,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ba4 ba5"
+  },
+  {
+    "id": "hsk20-1-004",
+    "hanzi": "杯子",
+    "sourceLabel": "杯子",
+    "aliases": [],
+    "pinyin": "bēizi",
+    "meaning": "ly, tách",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-10"
+    ],
+    "example": {
+      "hanzi": "这是我的杯子。",
+      "pinyin": "Zhè shì wǒ de bēizi.",
+      "meaning": "Đây là cốc của tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 4,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "bei1 zi5"
+  },
+  {
+    "id": "hsk20-1-005",
+    "hanzi": "北京",
+    "sourceLabel": "北京",
+    "aliases": [],
+    "pinyin": "Běijīng",
+    "meaning": "Bắc Kinh",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-52"
+    ],
+    "example": {
+      "hanzi": "我住在北京。",
+      "pinyin": "Wǒ zhù zài Běijīng.",
+      "meaning": "Tôi sống ở Bắc Kinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 5,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "bei3 jing1"
+  },
+  {
+    "id": "hsk20-1-006",
+    "hanzi": "本",
+    "sourceLabel": "本",
+    "aliases": [],
+    "pinyin": "běn",
+    "meaning": "quyển, cuốn",
+    "partOfSpeech": "lượng từ",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-32"
+    ],
+    "example": {
+      "hanzi": "我有三本书。",
+      "pinyin": "Wǒ yǒu sān běn shū.",
+      "meaning": "Tôi có ba quyển sách.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 6,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ben3"
+  },
+  {
+    "id": "hsk20-1-007",
+    "hanzi": "不",
+    "sourceLabel": "不",
+    "aliases": [],
+    "pinyin": "bù",
+    "meaning": "không",
+    "partOfSpeech": "phó từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      2
+    ],
+    "legacyIds": [
+      "v-2-110"
+    ],
+    "example": {
+      "hanzi": "我不喝茶。",
+      "pinyin": "Wǒ bù hē chá.",
+      "meaning": "Tôi không uống trà.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 7,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd1683e568d19",
+      "filename": "CHN113 - 第02课 - session 08 - 14 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "bu4"
+  },
+  {
+    "id": "hsk20-1-008",
+    "hanzi": "不客气",
+    "sourceLabel": "不客气",
+    "aliases": [],
+    "pinyin": "bù kèqi",
+    "meaning": "đừng khách sáo",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      2
+    ],
+    "legacyIds": [
+      "v-2-111"
+    ],
+    "example": {
+      "hanzi": "不客气！",
+      "pinyin": "Bú kèqi!",
+      "meaning": "Đừng khách sáo!",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 8,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd1683e568d19",
+      "filename": "CHN113 - 第02课 - session 08 - 14 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "bu4 ke4 qi5"
+  },
+  {
+    "id": "hsk20-1-009",
+    "hanzi": "菜",
+    "sourceLabel": "菜",
+    "aliases": [],
+    "pinyin": "cài",
+    "meaning": "món ăn",
+    "partOfSpeech": "danh từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-149"
+    ],
+    "example": {
+      "hanzi": "这个菜很好吃。",
+      "pinyin": "Zhège cài hěn hǎochī.",
+      "meaning": "Món này rất ngon.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 9,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "cai4"
+  },
+  {
+    "id": "hsk20-1-010",
+    "hanzi": "茶",
+    "sourceLabel": "茶",
+    "aliases": [],
+    "pinyin": "chá",
+    "meaning": "trà",
+    "partOfSpeech": "danh từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-3"
+    ],
+    "example": {
+      "hanzi": "你喝茶吗？",
+      "pinyin": "Nǐ hē chá ma?",
+      "meaning": "Bạn có uống trà không?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 10,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "cha2"
+  },
+  {
+    "id": "hsk20-1-011",
+    "hanzi": "吃",
+    "sourceLabel": "吃",
+    "aliases": [],
+    "pinyin": "chī",
+    "meaning": "ăn",
+    "partOfSpeech": "động từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-4"
+    ],
+    "example": {
+      "hanzi": "我想吃米饭。",
+      "pinyin": "Wǒ xiǎng chī mǐfàn.",
+      "meaning": "Tôi muốn ăn cơm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 11,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "chi1"
+  },
+  {
+    "id": "hsk20-1-012",
+    "hanzi": "出租车",
+    "sourceLabel": "出租车",
+    "aliases": [],
+    "pinyin": "chūzūchē",
+    "meaning": "taxi",
+    "partOfSpeech": "danh từ",
+    "topic": "Động vật và đi lại",
+    "lessonIds": [
+      15
+    ],
+    "legacyIds": [
+      "v-15-98"
+    ],
+    "example": {
+      "hanzi": "他坐出租车去学校。",
+      "pinyin": "Tā zuò chūzūchē qù xuéxiào.",
+      "meaning": "Anh ấy đi taxi đến trường.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 12,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sea2df937ac75",
+      "filename": "CHN113- 第15课 - session 55 - 17 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "chu1 zu1 che1"
+  },
+  {
+    "id": "hsk20-1-013",
+    "hanzi": "打电话",
+    "sourceLabel": "打电话",
+    "aliases": [],
+    "pinyin": "dǎ diànhuà",
+    "meaning": "gọi điện thoại",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      13
+    ],
+    "legacyIds": [
+      "v-13-73"
+    ],
+    "example": {
+      "hanzi": "我给妈妈打电话。",
+      "pinyin": "Wǒ gěi māma dǎ diànhuà.",
+      "meaning": "Tôi gọi điện cho mẹ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 13,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "see0fdfb8226d",
+      "filename": "CHN113 - 第13课 - session 46 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "da3 dian4 hua4"
+  },
+  {
+    "id": "hsk20-1-014",
+    "hanzi": "大",
+    "sourceLabel": "大",
+    "aliases": [],
+    "pinyin": "dà",
+    "meaning": "lớn",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-145"
+    ],
+    "example": {
+      "hanzi": "这个学校很大。",
+      "pinyin": "Zhège xuéxiào hěn dà.",
+      "meaning": "Trường này rất lớn.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 14,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "da4"
+  },
+  {
+    "id": "hsk20-1-015",
+    "hanzi": "的",
+    "sourceLabel": "的",
+    "aliases": [],
+    "pinyin": "de",
+    "meaning": "của",
+    "partOfSpeech": "trợ từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-128"
+    ],
+    "example": {
+      "hanzi": "这是我的书。",
+      "pinyin": "Zhè shì wǒ de shū.",
+      "meaning": "Đây là sách của tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 15,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "de5"
+  },
+  {
+    "id": "hsk20-1-016",
+    "hanzi": "点",
+    "sourceLabel": "点",
+    "aliases": [],
+    "pinyin": "diǎn",
+    "meaning": "giờ",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-42"
+    ],
+    "example": {
+      "hanzi": "我六点回家。",
+      "pinyin": "Wǒ liù diǎn huí jiā.",
+      "meaning": "Tôi về nhà lúc sáu giờ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 16,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dian3"
+  },
+  {
+    "id": "hsk20-1-017",
+    "hanzi": "电脑",
+    "sourceLabel": "电脑",
+    "aliases": [],
+    "pinyin": "diànnǎo",
+    "meaning": "máy vi tính",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-30"
+    ],
+    "example": {
+      "hanzi": "桌子上有一个电脑。",
+      "pinyin": "Zhuōzi shàng yǒu yí ge diànnǎo.",
+      "meaning": "Trên bàn có một máy tính.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 17,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dian4 nao3"
+  },
+  {
+    "id": "hsk20-1-018",
+    "hanzi": "电视",
+    "sourceLabel": "电视",
+    "aliases": [],
+    "pinyin": "diànshì",
+    "meaning": "tivi",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      13
+    ],
+    "legacyIds": [
+      "v-13-70"
+    ],
+    "example": {
+      "hanzi": "我喜欢看电视。",
+      "pinyin": "Wǒ xǐhuan kàn diànshì.",
+      "meaning": "Tôi thích xem tivi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 18,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "see0fdfb8226d",
+      "filename": "CHN113 - 第13课 - session 46 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dian4 shi4"
+  },
+  {
+    "id": "hsk20-1-019",
+    "hanzi": "电影",
+    "sourceLabel": "电影",
+    "aliases": [],
+    "pinyin": "diànyǐng",
+    "meaning": "phim",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-49"
+    ],
+    "example": {
+      "hanzi": "这个电影很好。",
+      "pinyin": "Zhège diànyǐng hěn hǎo.",
+      "meaning": "Bộ phim này rất hay.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 19,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dian4 ying3"
+  },
+  {
+    "id": "hsk20-1-020",
+    "hanzi": "东西",
+    "sourceLabel": "东西",
+    "aliases": [],
+    "pinyin": "dōngxi",
+    "meaning": "đồ đạc",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-76"
+    ],
+    "example": {
+      "hanzi": "你想买什么东西？",
+      "pinyin": "Nǐ xiǎng mǎi shénme dōngxi?",
+      "meaning": "Bạn muốn mua thứ gì?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 20,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dong1 xi5"
+  },
+  {
+    "id": "hsk20-1-021",
+    "hanzi": "都",
+    "sourceLabel": "都",
+    "aliases": [],
+    "pinyin": "dōu",
+    "meaning": "đều",
+    "partOfSpeech": "phó từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-92"
+    ],
+    "example": {
+      "hanzi": "我们都是学生。",
+      "pinyin": "Wǒmen dōu shì xuésheng.",
+      "meaning": "Chúng tôi đều là học sinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 21,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dou1"
+  },
+  {
+    "id": "hsk20-1-022",
+    "hanzi": "读",
+    "sourceLabel": "读",
+    "aliases": [],
+    "pinyin": "dú",
+    "meaning": "đọc",
+    "partOfSpeech": "động từ",
+    "topic": "Học tập",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-157"
+    ],
+    "example": {
+      "hanzi": "他在读书。",
+      "pinyin": "Tā zài dú shū.",
+      "meaning": "Anh ấy đang đọc sách.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 22,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "du2"
+  },
+  {
+    "id": "hsk20-1-023",
+    "hanzi": "对不起",
+    "sourceLabel": "对不起",
+    "aliases": [],
+    "pinyin": "duìbuqǐ",
+    "meaning": "xin lỗi",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      1
+    ],
+    "legacyIds": [
+      "v-1-107"
+    ],
+    "example": {
+      "hanzi": "对不起，我不能来。",
+      "pinyin": "Duìbuqǐ, wǒ bù néng lái.",
+      "meaning": "Xin lỗi, tôi không thể đến.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 23,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s43b9628f1862",
+      "filename": "CHN113- 第01课 - session 04 - 16 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "dui4 bu5 qi3"
+  },
+  {
+    "id": "hsk20-1-024",
+    "hanzi": "多",
+    "sourceLabel": "多",
+    "aliases": [],
+    "pinyin": "duō",
+    "meaning": "nhiều",
+    "partOfSpeech": "tính từ",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-144"
+    ],
+    "example": {
+      "hanzi": "这里的人很多。",
+      "pinyin": "Zhèlǐ de rén hěn duō.",
+      "meaning": "Ở đây có rất nhiều người.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 24,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "duo1"
+  },
+  {
+    "id": "hsk20-1-025",
+    "hanzi": "多少",
+    "sourceLabel": "多少",
+    "aliases": [],
+    "pinyin": "duōshao",
+    "meaning": "bao nhiêu",
+    "partOfSpeech": "từ nghi vấn",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-12"
+    ],
+    "example": {
+      "hanzi": "这个杯子多少钱？",
+      "pinyin": "Zhège bēizi duōshao qián?",
+      "meaning": "Cốc này bao nhiêu tiền?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 25,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "duo1 shao5"
+  },
+  {
+    "id": "hsk20-1-026",
+    "hanzi": "儿子",
+    "sourceLabel": "儿子",
+    "aliases": [],
+    "pinyin": "érzi",
+    "meaning": "con trai",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-24"
+    ],
+    "example": {
+      "hanzi": "我儿子在学校。",
+      "pinyin": "Wǒ érzi zài xuéxiào.",
+      "meaning": "Con trai tôi ở trường.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 26,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "er2 zi5"
+  },
+  {
+    "id": "hsk20-1-027",
+    "hanzi": "二",
+    "sourceLabel": "二",
+    "aliases": [],
+    "pinyin": "èr",
+    "meaning": "hai",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "今天是二月三日。",
+      "pinyin": "Jīntiān shì èr yuè sān rì.",
+      "meaning": "Hôm nay là ngày ba tháng hai.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 27,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "er4"
+  },
+  {
+    "id": "hsk20-1-028",
+    "hanzi": "饭馆",
+    "sourceLabel": "饭馆",
+    "aliases": [],
+    "pinyin": "fànguǎn",
+    "meaning": "nhà hàng, quán ăn",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我们去饭馆吃饭。",
+      "pinyin": "Wǒmen qù fànguǎn chī fàn.",
+      "meaning": "Chúng tôi đến nhà hàng ăn cơm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 28,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "fan4 guan3"
+  },
+  {
+    "id": "hsk20-1-029",
+    "hanzi": "飞机",
+    "sourceLabel": "飞机",
+    "aliases": [],
+    "pinyin": "fēijī",
+    "meaning": "máy bay",
+    "partOfSpeech": "danh từ",
+    "topic": "Động vật và đi lại",
+    "lessonIds": [
+      15
+    ],
+    "legacyIds": [
+      "v-15-102"
+    ],
+    "example": {
+      "hanzi": "他坐飞机去北京。",
+      "pinyin": "Tā zuò fēijī qù Běijīng.",
+      "meaning": "Anh ấy đi máy bay đến Bắc Kinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 29,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sea2df937ac75",
+      "filename": "CHN113- 第15课 - session 55 - 17 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "fei1 ji1"
+  },
+  {
+    "id": "hsk20-1-030",
+    "hanzi": "分钟",
+    "sourceLabel": "分钟",
+    "aliases": [],
+    "pinyin": "fēnzhōng",
+    "meaning": "phút đồng hồ",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-84"
+    ],
+    "example": {
+      "hanzi": "我看了十分钟电视。",
+      "pinyin": "Wǒ kàn le shí fēnzhōng diànshì.",
+      "meaning": "Tôi đã xem tivi mười phút.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 30,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "fen1 zhong1"
+  },
+  {
+    "id": "hsk20-1-031",
+    "hanzi": "高兴",
+    "sourceLabel": "高兴",
+    "aliases": [],
+    "pinyin": "gāoxìng",
+    "meaning": "vui, phấn khởi",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      15
+    ],
+    "legacyIds": [
+      "v-15-100"
+    ],
+    "example": {
+      "hanzi": "我今天很高兴。",
+      "pinyin": "Wǒ jīntiān hěn gāoxìng.",
+      "meaning": "Hôm nay tôi rất vui.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 31,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sea2df937ac75",
+      "filename": "CHN113- 第15课 - session 55 - 17 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "gao1 xing4"
+  },
+  {
+    "id": "hsk20-1-032",
+    "hanzi": "个",
+    "sourceLabel": "个",
+    "aliases": [],
+    "pinyin": "gè",
+    "meaning": "cái",
+    "partOfSpeech": "lượng từ",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-9"
+    ],
+    "example": {
+      "hanzi": "我买三个苹果。",
+      "pinyin": "Wǒ mǎi sān ge píngguǒ.",
+      "meaning": "Tôi mua ba quả táo.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 32,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ge4"
+  },
+  {
+    "id": "hsk20-1-033",
+    "hanzi": "工作",
+    "sourceLabel": "工作",
+    "aliases": [],
+    "pinyin": "gōngzuò",
+    "meaning": "làm việc, công việc",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-23"
+    ],
+    "example": {
+      "hanzi": "他在医院工作。",
+      "pinyin": "Tā zài yīyuàn gōngzuò.",
+      "meaning": "Anh ấy làm việc ở bệnh viện.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 33,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "gong1 zuo4"
+  },
+  {
+    "id": "hsk20-1-034",
+    "hanzi": "狗",
+    "sourceLabel": "狗",
+    "aliases": [],
+    "pinyin": "gǒu",
+    "meaning": "chó",
+    "partOfSpeech": "danh từ",
+    "topic": "Động vật và đi lại",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-20"
+    ],
+    "example": {
+      "hanzi": "这只狗很小。",
+      "pinyin": "Zhè zhī gǒu hěn xiǎo.",
+      "meaning": "Con chó này rất nhỏ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 34,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "gou3"
+  },
+  {
+    "id": "hsk20-1-035",
+    "hanzi": "汉语",
+    "sourceLabel": "汉语",
+    "aliases": [],
+    "pinyin": "Hànyǔ",
+    "meaning": "Hán ngữ",
+    "partOfSpeech": "danh từ",
+    "topic": "Học tập",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-129"
+    ],
+    "example": {
+      "hanzi": "我学习汉语。",
+      "pinyin": "Wǒ xuéxí Hànyǔ.",
+      "meaning": "Tôi học tiếng Trung.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 35,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "han4 yu3"
+  },
+  {
+    "id": "hsk20-1-036",
+    "hanzi": "好",
+    "sourceLabel": "好",
+    "aliases": [],
+    "pinyin": "hǎo",
+    "meaning": "tốt, khỏe",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      1
+    ],
+    "legacyIds": [
+      "v-1-104"
+    ],
+    "example": {
+      "hanzi": "老师很好。",
+      "pinyin": "Lǎoshī hěn hǎo.",
+      "meaning": "Thầy cô rất tốt.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 36,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s43b9628f1862",
+      "filename": "CHN113- 第01课 - session 04 - 16 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "hao3"
+  },
+  {
+    "id": "hsk20-1-037",
+    "hanzi": "喝",
+    "sourceLabel": "喝",
+    "aliases": [],
+    "pinyin": "hē",
+    "meaning": "uống",
+    "partOfSpeech": "động từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-2"
+    ],
+    "example": {
+      "hanzi": "你想喝什么？",
+      "pinyin": "Nǐ xiǎng hē shénme?",
+      "meaning": "Bạn muốn uống gì?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 37,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "he1"
+  },
+  {
+    "id": "hsk20-1-038",
+    "hanzi": "和",
+    "sourceLabel": "和",
+    "aliases": [],
+    "pinyin": "hé",
+    "meaning": "và",
+    "partOfSpeech": "liên từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-31"
+    ],
+    "example": {
+      "hanzi": "我和妈妈去商店。",
+      "pinyin": "Wǒ hé māma qù shāngdiàn.",
+      "meaning": "Tôi và mẹ đến cửa hàng.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 38,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "he2"
+  },
+  {
+    "id": "hsk20-1-039",
+    "hanzi": "很",
+    "sourceLabel": "很",
+    "aliases": [],
+    "pinyin": "hěn",
+    "meaning": "rất",
+    "partOfSpeech": "phó từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-150"
+    ],
+    "example": {
+      "hanzi": "她很漂亮。",
+      "pinyin": "Tā hěn piàoliang.",
+      "meaning": "Cô ấy rất đẹp.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 39,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "hen3"
+  },
+  {
+    "id": "hsk20-1-040",
+    "hanzi": "后面",
+    "sourceLabel": "后面",
+    "aliases": [],
+    "pinyin": "hòumiàn",
+    "meaning": "phía sau",
+    "partOfSpeech": "từ chỉ vị trí",
+    "topic": "Vị trí",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-35"
+    ],
+    "example": {
+      "hanzi": "学校在医院后面。",
+      "pinyin": "Xuéxiào zài yīyuàn hòumiàn.",
+      "meaning": "Trường ở phía sau bệnh viện.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 40,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "hou4 mian4"
+  },
+  {
+    "id": "hsk20-1-041",
+    "hanzi": "回",
+    "sourceLabel": "回",
+    "aliases": [],
+    "pinyin": "huí",
+    "meaning": "về",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-47"
+    ],
+    "example": {
+      "hanzi": "你什么时候回家？",
+      "pinyin": "Nǐ shénme shíhou huí jiā?",
+      "meaning": "Khi nào bạn về nhà?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 1,
+      "entry": 41,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "hui2"
+  },
+  {
+    "id": "hsk20-1-042",
+    "hanzi": "会",
+    "sourceLabel": "会",
+    "aliases": [],
+    "pinyin": "huì",
+    "meaning": "biết (kỹ năng); sẽ",
+    "partOfSpeech": "động từ năng nguyện",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-146"
+    ],
+    "example": {
+      "hanzi": "我会说汉语。",
+      "pinyin": "Wǒ huì shuō Hànyǔ.",
+      "meaning": "Tôi biết nói tiếng Trung.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 42,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "hui4"
+  },
+  {
+    "id": "hsk20-1-043",
+    "hanzi": "火车站",
+    "sourceLabel": "火车站",
+    "aliases": [],
+    "pinyin": "huǒchēzhàn",
+    "meaning": "ga tàu hỏa",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "火车站在哪儿？",
+      "pinyin": "Huǒchēzhàn zài nǎr?",
+      "meaning": "Ga tàu hỏa ở đâu?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 43,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "huo3 che1 zhan4"
+  },
+  {
+    "id": "hsk20-1-044",
+    "hanzi": "几",
+    "sourceLabel": "几",
+    "aliases": [],
+    "pinyin": "jǐ",
+    "meaning": "mấy",
+    "partOfSpeech": "từ nghi vấn",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-140"
+    ],
+    "example": {
+      "hanzi": "你家有几个人？",
+      "pinyin": "Nǐ jiā yǒu jǐ ge rén?",
+      "meaning": "Nhà bạn có mấy người?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 44,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ji3"
+  },
+  {
+    "id": "hsk20-1-045",
+    "hanzi": "家",
+    "sourceLabel": "家",
+    "aliases": [],
+    "pinyin": "jiā",
+    "meaning": "nhà",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-136"
+    ],
+    "example": {
+      "hanzi": "我家在北京。",
+      "pinyin": "Wǒ jiā zài Běijīng.",
+      "meaning": "Nhà tôi ở Bắc Kinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 45,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "jia1"
+  },
+  {
+    "id": "hsk20-1-046",
+    "hanzi": "叫",
+    "sourceLabel": "叫",
+    "aliases": [],
+    "pinyin": "jiào",
+    "meaning": "tên (là)",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-113"
+    ],
+    "example": {
+      "hanzi": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzi?",
+      "meaning": "Bạn tên là gì?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 46,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "jiao4"
+  },
+  {
+    "id": "hsk20-1-047",
+    "hanzi": "她",
+    "sourceLabel": "她",
+    "aliases": [],
+    "pinyin": "tā",
+    "meaning": "cô ấy, bà ấy…",
+    "partOfSpeech": "đại từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-126"
+    ],
+    "example": {
+      "hanzi": "她是我的朋友。",
+      "pinyin": "Tā shì wǒ de péngyou.",
+      "meaning": "Cô ấy là bạn tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 47,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ta1"
+  },
+  {
+    "id": "hsk20-1-048",
+    "hanzi": "今天",
+    "sourceLabel": "今天",
+    "aliases": [],
+    "pinyin": "jīntiān",
+    "meaning": "hôm nay",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-160"
+    ],
+    "example": {
+      "hanzi": "今天不下雨。",
+      "pinyin": "Jīntiān bú xià yǔ.",
+      "meaning": "Hôm nay không mưa.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 48,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "jin1 tian1"
+  },
+  {
+    "id": "hsk20-1-049",
+    "hanzi": "九",
+    "sourceLabel": "九",
+    "aliases": [],
+    "pinyin": "jiǔ",
+    "meaning": "chín",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我九点睡觉。",
+      "pinyin": "Wǒ jiǔ diǎn shuì jiào.",
+      "meaning": "Tôi đi ngủ lúc chín giờ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 49,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "jiu3"
+  },
+  {
+    "id": "hsk20-1-050",
+    "hanzi": "开",
+    "sourceLabel": "开",
+    "aliases": [],
+    "pinyin": "kāi",
+    "meaning": "mở; lái (xe)",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-81"
+    ],
+    "example": {
+      "hanzi": "他会开车。",
+      "pinyin": "Tā huì kāi chē.",
+      "meaning": "Anh ấy biết lái xe.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 50,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "kai1"
+  },
+  {
+    "id": "hsk20-1-051",
+    "hanzi": "看",
+    "sourceLabel": "看",
+    "aliases": [],
+    "pinyin": "kàn",
+    "meaning": "nhìn, xem",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-168"
+    ],
+    "example": {
+      "hanzi": "你在看什么？",
+      "pinyin": "Nǐ zài kàn shénme?",
+      "meaning": "Bạn đang xem gì?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 51,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "kan4"
+  },
+  {
+    "id": "hsk20-1-052",
+    "hanzi": "看见",
+    "sourceLabel": "看见",
+    "aliases": [],
+    "pinyin": "kànjiàn",
+    "meaning": "nhìn thấy",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-79"
+    ],
+    "example": {
+      "hanzi": "我看见老师了。",
+      "pinyin": "Wǒ kànjiàn lǎoshī le.",
+      "meaning": "Tôi đã nhìn thấy thầy cô.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 52,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "kan4 jian4"
+  },
+  {
+    "id": "hsk20-1-053",
+    "hanzi": "块",
+    "sourceLabel": "块",
+    "aliases": [],
+    "pinyin": "kuài",
+    "meaning": "đồng (đơn vị tiền tệ)",
+    "partOfSpeech": "lượng từ",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-14"
+    ],
+    "example": {
+      "hanzi": "这个杯子十块钱。",
+      "pinyin": "Zhège bēizi shí kuài qián.",
+      "meaning": "Cốc này giá mười đồng.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 53,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "kuai4"
+  },
+  {
+    "id": "hsk20-1-054",
+    "hanzi": "来",
+    "sourceLabel": "来",
+    "aliases": [],
+    "pinyin": "lái",
+    "meaning": "đến, tới",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-59"
+    ],
+    "example": {
+      "hanzi": "他明天来。",
+      "pinyin": "Tā míngtiān lái.",
+      "meaning": "Ngày mai anh ấy đến.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 54,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "lai2"
+  },
+  {
+    "id": "hsk20-1-055",
+    "hanzi": "老师",
+    "sourceLabel": "老师",
+    "aliases": [],
+    "pinyin": "lǎoshī",
+    "meaning": "thầy/cô giáo",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-118"
+    ],
+    "example": {
+      "hanzi": "她是汉语老师。",
+      "pinyin": "Tā shì Hànyǔ lǎoshī.",
+      "meaning": "Cô ấy là giáo viên tiếng Trung.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 55,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "lao3 shi1"
+  },
+  {
+    "id": "hsk20-1-056",
+    "hanzi": "冷",
+    "sourceLabel": "冷",
+    "aliases": [],
+    "pinyin": "lěng",
+    "meaning": "lạnh",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-56"
+    ],
+    "example": {
+      "hanzi": "今天很冷。",
+      "pinyin": "Jīntiān hěn lěng.",
+      "meaning": "Hôm nay rất lạnh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 56,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "leng3"
+  },
+  {
+    "id": "hsk20-1-057",
+    "hanzi": "里",
+    "sourceLabel": "里",
+    "aliases": [],
+    "pinyin": "lǐ",
+    "meaning": "trong, bên trong",
+    "partOfSpeech": "từ chỉ vị trí",
+    "topic": "Vị trí",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-33"
+    ],
+    "example": {
+      "hanzi": "学校里有很多学生。",
+      "pinyin": "Xuéxiào lǐ yǒu hěn duō xuésheng.",
+      "meaning": "Trong trường có nhiều học sinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 57,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "li3"
+  },
+  {
+    "id": "hsk20-1-058",
+    "hanzi": "了",
+    "sourceLabel": "了",
+    "aliases": [],
+    "pinyin": "le",
+    "meaning": "chỉ sự thay đổi hoặc tình huống mới",
+    "partOfSpeech": "trợ từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-142"
+    ],
+    "example": {
+      "hanzi": "我买了三个苹果。",
+      "pinyin": "Wǒ mǎi le sān ge píngguǒ.",
+      "meaning": "Tôi đã mua ba quả táo.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 58,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "le5"
+  },
+  {
+    "id": "hsk20-1-059",
+    "hanzi": "零",
+    "sourceLabel": "零",
+    "aliases": [],
+    "pinyin": "líng",
+    "meaning": "không (số 0)",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "现在十点零五分。",
+      "pinyin": "Xiànzài shí diǎn líng wǔ fēn.",
+      "meaning": "Bây giờ là mười giờ lẻ năm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 59,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ling2"
+  },
+  {
+    "id": "hsk20-1-060",
+    "hanzi": "六",
+    "sourceLabel": "六",
+    "aliases": [],
+    "pinyin": "liù",
+    "meaning": "sáu",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我有六本书。",
+      "pinyin": "Wǒ yǒu liù běn shū.",
+      "meaning": "Tôi có sáu quyển sách.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 60,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "liu4"
+  },
+  {
+    "id": "hsk20-1-061",
+    "hanzi": "妈妈",
+    "sourceLabel": "妈妈",
+    "aliases": [],
+    "pinyin": "māma",
+    "meaning": "mẹ",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-148"
+    ],
+    "example": {
+      "hanzi": "妈妈在做饭。",
+      "pinyin": "Māma zài zuò fàn.",
+      "meaning": "Mẹ đang nấu cơm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 61,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ma1 ma5"
+  },
+  {
+    "id": "hsk20-1-062",
+    "hanzi": "吗",
+    "sourceLabel": "吗",
+    "aliases": [],
+    "pinyin": "ma",
+    "meaning": "không, phải không",
+    "partOfSpeech": "trợ từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-119"
+    ],
+    "example": {
+      "hanzi": "你是学生吗？",
+      "pinyin": "Nǐ shì xuésheng ma?",
+      "meaning": "Bạn là học sinh phải không?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 62,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ma5"
+  },
+  {
+    "id": "hsk20-1-063",
+    "hanzi": "买",
+    "sourceLabel": "买",
+    "aliases": [],
+    "pinyin": "mǎi",
+    "meaning": "mua",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-8"
+    ],
+    "example": {
+      "hanzi": "我想买衣服。",
+      "pinyin": "Wǒ xiǎng mǎi yīfu.",
+      "meaning": "Tôi muốn mua quần áo.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 63,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "mai3"
+  },
+  {
+    "id": "hsk20-1-064",
+    "hanzi": "猫",
+    "sourceLabel": "猫",
+    "aliases": [],
+    "pinyin": "māo",
+    "meaning": "mèo",
+    "partOfSpeech": "danh từ",
+    "topic": "Động vật và đi lại",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-17"
+    ],
+    "example": {
+      "hanzi": "小猫在椅子下面。",
+      "pinyin": "Xiǎo māo zài yǐzi xiàmiàn.",
+      "meaning": "Mèo con ở dưới ghế.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 64,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "mao1"
+  },
+  {
+    "id": "hsk20-1-065",
+    "hanzi": "没",
+    "sourceLabel": "没",
+    "aliases": [],
+    "pinyin": "méi",
+    "meaning": "không, chưa (phủ định 有 hoặc việc đã xảy ra)",
+    "partOfSpeech": "phó từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我没有电脑。",
+      "pinyin": "Wǒ méi yǒu diànnǎo.",
+      "meaning": "Tôi không có máy tính.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 65,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "mei2"
+  },
+  {
+    "id": "hsk20-1-066",
+    "hanzi": "没关系",
+    "sourceLabel": "没关系",
+    "aliases": [],
+    "pinyin": "méi guānxi",
+    "meaning": "không có gì",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      1
+    ],
+    "legacyIds": [
+      "v-1-108"
+    ],
+    "example": {
+      "hanzi": "没关系，请坐。",
+      "pinyin": "Méi guānxi, qǐng zuò.",
+      "meaning": "Không sao, mời ngồi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 66,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s43b9628f1862",
+      "filename": "CHN113- 第01课 - session 04 - 16 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "mei2 guan1 xi5"
+  },
+  {
+    "id": "hsk20-1-067",
+    "hanzi": "米饭",
+    "sourceLabel": "米饭",
+    "aliases": [],
+    "pinyin": "mǐfàn",
+    "meaning": "cơm",
+    "partOfSpeech": "danh từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-5"
+    ],
+    "example": {
+      "hanzi": "我喜欢吃米饭。",
+      "pinyin": "Wǒ xǐhuan chī mǐfàn.",
+      "meaning": "Tôi thích ăn cơm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 67,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "mi3 fan4"
+  },
+  {
+    "id": "hsk20-1-068",
+    "hanzi": "名字",
+    "sourceLabel": "名字",
+    "aliases": [],
+    "pinyin": "míngzi",
+    "meaning": "tên",
+    "partOfSpeech": "danh từ",
+    "topic": "Học tập",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-115"
+    ],
+    "example": {
+      "hanzi": "你的名字很好听。",
+      "pinyin": "Nǐ de míngzi hěn hǎotīng.",
+      "meaning": "Tên bạn nghe rất hay.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 68,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ming2 zi5"
+  },
+  {
+    "id": "hsk20-1-069",
+    "hanzi": "明天",
+    "sourceLabel": "明天",
+    "aliases": [],
+    "pinyin": "míngtiān",
+    "meaning": "ngày mai",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-165"
+    ],
+    "example": {
+      "hanzi": "明天我去学校。",
+      "pinyin": "Míngtiān wǒ qù xuéxiào.",
+      "meaning": "Ngày mai tôi đến trường.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 69,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ming2 tian1"
+  },
+  {
+    "id": "hsk20-1-070",
+    "hanzi": "哪",
+    "sourceLabel": "哪（哪儿）",
+    "aliases": [
+      "哪儿"
+    ],
+    "pinyin": "nǎ",
+    "meaning": "nào",
+    "partOfSpeech": "đại từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-130"
+    ],
+    "example": {
+      "hanzi": "哪本书是你的？",
+      "pinyin": "Nǎ běn shū shì nǐ de?",
+      "meaning": "Quyển sách nào là của bạn?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 70,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "na3"
+  },
+  {
+    "id": "hsk20-1-071",
+    "hanzi": "那",
+    "sourceLabel": "那（那儿）",
+    "aliases": [
+      "那儿"
+    ],
+    "pinyin": "nà",
+    "meaning": "kia, đó",
+    "partOfSpeech": "đại từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-15"
+    ],
+    "example": {
+      "hanzi": "那是我的朋友。",
+      "pinyin": "Nà shì wǒ de péngyou.",
+      "meaning": "Đó là bạn của tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 71,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "na4"
+  },
+  {
+    "id": "hsk20-1-072",
+    "hanzi": "呢",
+    "sourceLabel": "呢",
+    "aliases": [],
+    "pinyin": "ne",
+    "meaning": "thì sao",
+    "partOfSpeech": "trợ từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-132"
+    ],
+    "example": {
+      "hanzi": "我很好，你呢？",
+      "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+      "meaning": "Tôi khỏe, còn bạn?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 72,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ne5"
+  },
+  {
+    "id": "hsk20-1-073",
+    "hanzi": "能",
+    "sourceLabel": "能",
+    "aliases": [],
+    "pinyin": "néng",
+    "meaning": "có thể",
+    "partOfSpeech": "động từ năng nguyện",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-37"
+    ],
+    "example": {
+      "hanzi": "我能坐这儿吗？",
+      "pinyin": "Wǒ néng zuò zhèr ma?",
+      "meaning": "Tôi có thể ngồi đây không?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 73,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "neng2"
+  },
+  {
+    "id": "hsk20-1-074",
+    "hanzi": "你",
+    "sourceLabel": "你",
+    "aliases": [],
+    "pinyin": "nǐ",
+    "meaning": "bạn, mày…",
+    "partOfSpeech": "đại từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      1
+    ],
+    "legacyIds": [
+      "v-1-103"
+    ],
+    "example": {
+      "hanzi": "你是老师吗？",
+      "pinyin": "Nǐ shì lǎoshī ma?",
+      "meaning": "Bạn là giáo viên phải không?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 74,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s43b9628f1862",
+      "filename": "CHN113- 第01课 - session 04 - 16 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ni3"
+  },
+  {
+    "id": "hsk20-1-075",
+    "hanzi": "年",
+    "sourceLabel": "年",
+    "aliases": [],
+    "pinyin": "nián",
+    "meaning": "năm",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      15
+    ],
+    "legacyIds": [
+      "v-15-95"
+    ],
+    "example": {
+      "hanzi": "我在中国住了三年。",
+      "pinyin": "Wǒ zài Zhōngguó zhù le sān nián.",
+      "meaning": "Tôi đã sống ở Trung Quốc ba năm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 75,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sea2df937ac75",
+      "filename": "CHN113- 第15课 - session 55 - 17 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "nian2"
+  },
+  {
+    "id": "hsk20-1-076",
+    "hanzi": "女儿",
+    "sourceLabel": "女儿",
+    "aliases": [],
+    "pinyin": "nǚ'ér",
+    "meaning": "con gái",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-139"
+    ],
+    "example": {
+      "hanzi": "我女儿五岁。",
+      "pinyin": "Wǒ nǚ'ér wǔ suì.",
+      "meaning": "Con gái tôi năm tuổi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 76,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "nü3 er2"
+  },
+  {
+    "id": "hsk20-1-077",
+    "hanzi": "朋友",
+    "sourceLabel": "朋友",
+    "aliases": [],
+    "pinyin": "péngyou",
+    "meaning": "bạn bè",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-135"
+    ],
+    "example": {
+      "hanzi": "他是我的朋友。",
+      "pinyin": "Tā shì wǒ de péngyou.",
+      "meaning": "Anh ấy là bạn tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 77,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "peng2 you5"
+  },
+  {
+    "id": "hsk20-1-078",
+    "hanzi": "漂亮",
+    "sourceLabel": "漂亮",
+    "aliases": [],
+    "pinyin": "piàoliang",
+    "meaning": "đẹp",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-87"
+    ],
+    "example": {
+      "hanzi": "这件衣服很漂亮。",
+      "pinyin": "Zhè jiàn yīfu hěn piàoliang.",
+      "meaning": "Bộ quần áo này rất đẹp.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 78,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "piao4 liang5"
+  },
+  {
+    "id": "hsk20-1-079",
+    "hanzi": "苹果",
+    "sourceLabel": "苹果",
+    "aliases": [],
+    "pinyin": "píngguǒ",
+    "meaning": "táo",
+    "partOfSpeech": "danh từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-78"
+    ],
+    "example": {
+      "hanzi": "我想吃苹果。",
+      "pinyin": "Wǒ xiǎng chī píngguǒ.",
+      "meaning": "Tôi muốn ăn táo.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 79,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ping2 guo3"
+  },
+  {
+    "id": "hsk20-1-080",
+    "hanzi": "七",
+    "sourceLabel": "七",
+    "aliases": [],
+    "pinyin": "qī",
+    "meaning": "bảy",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我七点去学校。",
+      "pinyin": "Wǒ qī diǎn qù xuéxiào.",
+      "meaning": "Tôi đến trường lúc bảy giờ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 80,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "qi1"
+  },
+  {
+    "id": "hsk20-1-081",
+    "hanzi": "前面",
+    "sourceLabel": "前面",
+    "aliases": [],
+    "pinyin": "qiánmiàn",
+    "meaning": "phía trước",
+    "partOfSpeech": "từ chỉ vị trí",
+    "topic": "Vị trí",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-34"
+    ],
+    "example": {
+      "hanzi": "老师在前面。",
+      "pinyin": "Lǎoshī zài qiánmiàn.",
+      "meaning": "Giáo viên ở phía trước.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 81,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "qian2 mian4"
+  },
+  {
+    "id": "hsk20-1-082",
+    "hanzi": "钱",
+    "sourceLabel": "钱",
+    "aliases": [],
+    "pinyin": "qián",
+    "meaning": "tiền",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-13"
+    ],
+    "example": {
+      "hanzi": "你有多少钱？",
+      "pinyin": "Nǐ yǒu duōshao qián?",
+      "meaning": "Bạn có bao nhiêu tiền?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 82,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "qian2"
+  },
+  {
+    "id": "hsk20-1-083",
+    "hanzi": "请",
+    "sourceLabel": "请",
+    "aliases": [],
+    "pinyin": "qǐng",
+    "meaning": "(lịch sự) mời, xin",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-158"
+    ],
+    "example": {
+      "hanzi": "请喝茶。",
+      "pinyin": "Qǐng hē chá.",
+      "meaning": "Mời uống trà.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 83,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "qing3"
+  },
+  {
+    "id": "hsk20-1-084",
+    "hanzi": "去",
+    "sourceLabel": "去",
+    "aliases": [],
+    "pinyin": "qù",
+    "meaning": "đi, đi đến",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-166"
+    ],
+    "example": {
+      "hanzi": "我们去学校。",
+      "pinyin": "Wǒmen qù xuéxiào.",
+      "meaning": "Chúng tôi đến trường.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 84,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "qu4"
+  },
+  {
+    "id": "hsk20-1-085",
+    "hanzi": "热",
+    "sourceLabel": "热",
+    "aliases": [],
+    "pinyin": "rè",
+    "meaning": "nóng",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-55"
+    ],
+    "example": {
+      "hanzi": "今天太热了。",
+      "pinyin": "Jīntiān tài rè le.",
+      "meaning": "Hôm nay nóng quá.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 2,
+      "entry": 85,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "re4"
+  },
+  {
+    "id": "hsk20-1-086",
+    "hanzi": "人",
+    "sourceLabel": "人",
+    "aliases": [],
+    "pinyin": "rén",
+    "meaning": "người",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-121"
+    ],
+    "example": {
+      "hanzi": "这里有三个人。",
+      "pinyin": "Zhèlǐ yǒu sān ge rén.",
+      "meaning": "Ở đây có ba người.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 86,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ren2"
+  },
+  {
+    "id": "hsk20-1-087",
+    "hanzi": "认识",
+    "sourceLabel": "认识",
+    "aliases": [],
+    "pinyin": "rènshi",
+    "meaning": "quen, biết",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      15
+    ],
+    "legacyIds": [
+      "v-15-94"
+    ],
+    "example": {
+      "hanzi": "我认识他。",
+      "pinyin": "Wǒ rènshi tā.",
+      "meaning": "Tôi quen anh ấy.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 87,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sea2df937ac75",
+      "filename": "CHN113- 第15课 - session 55 - 17 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ren4 shi5"
+  },
+  {
+    "id": "hsk20-1-088",
+    "hanzi": "日",
+    "sourceLabel": "日",
+    "aliases": [],
+    "pinyin": "rì",
+    "meaning": "ngày",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "今天是五月一日。",
+      "pinyin": "Jīntiān shì wǔ yuè yī rì.",
+      "meaning": "Hôm nay là ngày một tháng năm.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 88,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ri4"
+  },
+  {
+    "id": "hsk20-1-089",
+    "hanzi": "三",
+    "sourceLabel": "三",
+    "aliases": [],
+    "pinyin": "sān",
+    "meaning": "ba",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我有三个朋友。",
+      "pinyin": "Wǒ yǒu sān ge péngyou.",
+      "meaning": "Tôi có ba người bạn.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 89,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "san1"
+  },
+  {
+    "id": "hsk20-1-090",
+    "hanzi": "商店",
+    "sourceLabel": "商店",
+    "aliases": [],
+    "pinyin": "shāngdiàn",
+    "meaning": "cửa hàng",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-7"
+    ],
+    "example": {
+      "hanzi": "商店在前面。",
+      "pinyin": "Shāngdiàn zài qiánmiàn.",
+      "meaning": "Cửa hàng ở phía trước.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 90,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shang1 dian4"
+  },
+  {
+    "id": "hsk20-1-091",
+    "hanzi": "上",
+    "sourceLabel": "上",
+    "aliases": [],
+    "pinyin": "shàng",
+    "meaning": "trên, phía trên",
+    "partOfSpeech": "từ chỉ vị trí",
+    "topic": "Vị trí",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-29"
+    ],
+    "example": {
+      "hanzi": "书在桌子上。",
+      "pinyin": "Shū zài zhuōzi shàng.",
+      "meaning": "Sách ở trên bàn.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 91,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shang4"
+  },
+  {
+    "id": "hsk20-1-092",
+    "hanzi": "上午",
+    "sourceLabel": "上午",
+    "aliases": [],
+    "pinyin": "shàngwǔ",
+    "meaning": "buổi sáng",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      13
+    ],
+    "legacyIds": [
+      "v-13-68"
+    ],
+    "example": {
+      "hanzi": "我上午去学校。",
+      "pinyin": "Wǒ shàngwǔ qù xuéxiào.",
+      "meaning": "Tôi đến trường buổi sáng.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 92,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "see0fdfb8226d",
+      "filename": "CHN113 - 第13课 - session 46 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shang4 wu3"
+  },
+  {
+    "id": "hsk20-1-093",
+    "hanzi": "少",
+    "sourceLabel": "少",
+    "aliases": [],
+    "pinyin": "shǎo",
+    "meaning": "ít",
+    "partOfSpeech": "tính từ",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-89"
+    ],
+    "example": {
+      "hanzi": "今天学校里的人很少。",
+      "pinyin": "Jīntiān xuéxiào lǐ de rén hěn shǎo.",
+      "meaning": "Hôm nay trong trường có ít người.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 93,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shao3"
+  },
+  {
+    "id": "hsk20-1-094",
+    "hanzi": "十",
+    "sourceLabel": "十",
+    "aliases": [],
+    "pinyin": "shí",
+    "meaning": "mười",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我儿子十岁。",
+      "pinyin": "Wǒ érzi shí suì.",
+      "meaning": "Con trai tôi mười tuổi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 94,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shi2"
+  },
+  {
+    "id": "hsk20-1-095",
+    "hanzi": "什么",
+    "sourceLabel": "什么",
+    "aliases": [],
+    "pinyin": "shénme",
+    "meaning": "gì, cái gì",
+    "partOfSpeech": "đại từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-114"
+    ],
+    "example": {
+      "hanzi": "你想吃什么？",
+      "pinyin": "Nǐ xiǎng chī shénme?",
+      "meaning": "Bạn muốn ăn gì?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 95,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shen2 me5"
+  },
+  {
+    "id": "hsk20-1-096",
+    "hanzi": "时候",
+    "sourceLabel": "时候",
+    "aliases": [],
+    "pinyin": "shíhou",
+    "meaning": "lúc, khi",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-46"
+    ],
+    "example": {
+      "hanzi": "你什么时候来？",
+      "pinyin": "Nǐ shénme shíhou lái?",
+      "meaning": "Khi nào bạn đến?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 96,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shi2 hou5"
+  },
+  {
+    "id": "hsk20-1-097",
+    "hanzi": "是",
+    "sourceLabel": "是",
+    "aliases": [],
+    "pinyin": "shì",
+    "meaning": "là",
+    "partOfSpeech": "động từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-117"
+    ],
+    "example": {
+      "hanzi": "我是学生。",
+      "pinyin": "Wǒ shì xuésheng.",
+      "meaning": "Tôi là học sinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 97,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shi4"
+  },
+  {
+    "id": "hsk20-1-098",
+    "hanzi": "书",
+    "sourceLabel": "书",
+    "aliases": [],
+    "pinyin": "shū",
+    "meaning": "sách",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-169"
+    ],
+    "example": {
+      "hanzi": "这是我的书。",
+      "pinyin": "Zhè shì wǒ de shū.",
+      "meaning": "Đây là sách của tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 98,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shu1"
+  },
+  {
+    "id": "hsk20-1-099",
+    "hanzi": "谁",
+    "sourceLabel": "谁",
+    "aliases": [],
+    "pinyin": "shéi",
+    "meaning": "ai",
+    "partOfSpeech": "đại từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-127"
+    ],
+    "example": {
+      "hanzi": "他是谁？",
+      "pinyin": "Tā shì shéi?",
+      "meaning": "Anh ấy là ai?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 99,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shei2"
+  },
+  {
+    "id": "hsk20-1-100",
+    "hanzi": "水",
+    "sourceLabel": "水",
+    "aliases": [],
+    "pinyin": "shuǐ",
+    "meaning": "nước",
+    "partOfSpeech": "danh từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-64"
+    ],
+    "example": {
+      "hanzi": "我想喝水。",
+      "pinyin": "Wǒ xiǎng hē shuǐ.",
+      "meaning": "Tôi muốn uống nước.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 100,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shui3"
+  },
+  {
+    "id": "hsk20-1-101",
+    "hanzi": "水果",
+    "sourceLabel": "水果",
+    "aliases": [],
+    "pinyin": "shuǐguǒ",
+    "meaning": "trái cây",
+    "partOfSpeech": "danh từ",
+    "topic": "Ăn uống",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-63"
+    ],
+    "example": {
+      "hanzi": "我喜欢吃水果。",
+      "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+      "meaning": "Tôi thích ăn trái cây.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 101,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shui3 guo3"
+  },
+  {
+    "id": "hsk20-1-102",
+    "hanzi": "睡觉",
+    "sourceLabel": "睡觉",
+    "aliases": [],
+    "pinyin": "shuì jiào",
+    "meaning": "ngủ",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      13
+    ],
+    "legacyIds": [
+      "v-13-69"
+    ],
+    "example": {
+      "hanzi": "他在睡觉。",
+      "pinyin": "Tā zài shuì jiào.",
+      "meaning": "Anh ấy đang ngủ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 102,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "see0fdfb8226d",
+      "filename": "CHN113 - 第13课 - session 46 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shui4 jiao4"
+  },
+  {
+    "id": "hsk20-1-103",
+    "hanzi": "说话",
+    "sourceLabel": "说话",
+    "aliases": [],
+    "pinyin": "shuō huà",
+    "meaning": "nói chuyện",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "老师在说话。",
+      "pinyin": "Lǎoshī zài shuō huà.",
+      "meaning": "Giáo viên đang nói.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 103,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "shuo1 hua4"
+  },
+  {
+    "id": "hsk20-1-104",
+    "hanzi": "四",
+    "sourceLabel": "四",
+    "aliases": [],
+    "pinyin": "sì",
+    "meaning": "bốn",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我买四个杯子。",
+      "pinyin": "Wǒ mǎi sì ge bēizi.",
+      "meaning": "Tôi mua bốn cái cốc.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 104,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "si4"
+  },
+  {
+    "id": "hsk20-1-105",
+    "hanzi": "岁",
+    "sourceLabel": "岁",
+    "aliases": [],
+    "pinyin": "suì",
+    "meaning": "tuổi",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-141"
+    ],
+    "example": {
+      "hanzi": "你女儿几岁？",
+      "pinyin": "Nǐ nǚ'ér jǐ suì?",
+      "meaning": "Con gái bạn mấy tuổi?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 105,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "sui4"
+  },
+  {
+    "id": "hsk20-1-106",
+    "hanzi": "他",
+    "sourceLabel": "他",
+    "aliases": [],
+    "pinyin": "tā",
+    "meaning": "anh ấy, ông ấy…",
+    "partOfSpeech": "đại từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-133"
+    ],
+    "example": {
+      "hanzi": "他在看书。",
+      "pinyin": "Tā zài kàn shū.",
+      "meaning": "Anh ấy đang đọc sách.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 106,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ta1"
+  },
+  {
+    "id": "hsk20-1-107",
+    "hanzi": "太",
+    "sourceLabel": "太",
+    "aliases": [],
+    "pinyin": "tài",
+    "meaning": "quá, rất",
+    "partOfSpeech": "phó từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "这本书太好了。",
+      "pinyin": "Zhè běn shū tài hǎo le.",
+      "meaning": "Quyển sách này hay quá.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 107,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "tai4"
+  },
+  {
+    "id": "hsk20-1-108",
+    "hanzi": "天气",
+    "sourceLabel": "天气",
+    "aliases": [],
+    "pinyin": "tiānqì",
+    "meaning": "thời tiết",
+    "partOfSpeech": "danh từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-53"
+    ],
+    "example": {
+      "hanzi": "今天天气怎么样？",
+      "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+      "meaning": "Thời tiết hôm nay thế nào?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 108,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "tian1 qi4"
+  },
+  {
+    "id": "hsk20-1-109",
+    "hanzi": "听",
+    "sourceLabel": "听",
+    "aliases": [],
+    "pinyin": "tīng",
+    "meaning": "nghe",
+    "partOfSpeech": "động từ",
+    "topic": "Học tập",
+    "lessonIds": [
+      15
+    ],
+    "legacyIds": [
+      "v-15-101"
+    ],
+    "example": {
+      "hanzi": "我喜欢听老师说汉语。",
+      "pinyin": "Wǒ xǐhuan tīng lǎoshī shuō Hànyǔ.",
+      "meaning": "Tôi thích nghe thầy cô nói tiếng Trung.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 109,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sea2df937ac75",
+      "filename": "CHN113- 第15课 - session 55 - 17 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "ting1"
+  },
+  {
+    "id": "hsk20-1-110",
+    "hanzi": "同学",
+    "sourceLabel": "同学",
+    "aliases": [],
+    "pinyin": "tóngxué",
+    "meaning": "bạn cùng lớp",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      4
+    ],
+    "legacyIds": [
+      "v-4-134"
+    ],
+    "example": {
+      "hanzi": "她是我的同学。",
+      "pinyin": "Tā shì wǒ de tóngxué.",
+      "meaning": "Cô ấy là bạn cùng lớp của tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 110,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd5b61768a7f2",
+      "filename": "CHN113 - 第04课 - session 16 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "tong2 xue2"
+  },
+  {
+    "id": "hsk20-1-111",
+    "hanzi": "喂",
+    "sourceLabel": "喂",
+    "aliases": [],
+    "pinyin": "wèi",
+    "meaning": "a lô, này",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      13
+    ],
+    "legacyIds": [
+      "v-13-66"
+    ],
+    "example": {
+      "hanzi": "喂，你好！",
+      "pinyin": "Wèi, nǐ hǎo!",
+      "meaning": "A lô, xin chào!",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 111,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "see0fdfb8226d",
+      "filename": "CHN113 - 第13课 - session 46 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "wei4"
+  },
+  {
+    "id": "hsk20-1-112",
+    "hanzi": "我",
+    "sourceLabel": "我",
+    "aliases": [],
+    "pinyin": "wǒ",
+    "meaning": "tôi, ta, mình…",
+    "partOfSpeech": "đại từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-116"
+    ],
+    "example": {
+      "hanzi": "我叫小王。",
+      "pinyin": "Wǒ jiào Xiǎo Wáng.",
+      "meaning": "Tôi tên là Tiểu Vương.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 112,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "wo3"
+  },
+  {
+    "id": "hsk20-1-113",
+    "hanzi": "我们",
+    "sourceLabel": "我们",
+    "aliases": [],
+    "pinyin": "wǒmen",
+    "meaning": "chúng ta",
+    "partOfSpeech": "đại từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-48"
+    ],
+    "example": {
+      "hanzi": "我们去看电影。",
+      "pinyin": "Wǒmen qù kàn diànyǐng.",
+      "meaning": "Chúng tôi đi xem phim.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 113,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "wo3 men5"
+  },
+  {
+    "id": "hsk20-1-114",
+    "hanzi": "五",
+    "sourceLabel": "五",
+    "aliases": [],
+    "pinyin": "wǔ",
+    "meaning": "năm (số 5)",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "桌子上有五本书。",
+      "pinyin": "Zhuōzi shàng yǒu wǔ běn shū.",
+      "meaning": "Trên bàn có năm quyển sách.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 114,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "wu3"
+  },
+  {
+    "id": "hsk20-1-115",
+    "hanzi": "喜欢",
+    "sourceLabel": "喜欢",
+    "aliases": [],
+    "pinyin": "xǐhuan",
+    "meaning": "thích",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      13
+    ],
+    "legacyIds": [
+      "v-13-71"
+    ],
+    "example": {
+      "hanzi": "我喜欢学习汉语。",
+      "pinyin": "Wǒ xǐhuan xuéxí Hànyǔ.",
+      "meaning": "Tôi thích học tiếng Trung.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 115,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "see0fdfb8226d",
+      "filename": "CHN113 - 第13课 - session 46 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xi3 huan5"
+  },
+  {
+    "id": "hsk20-1-116",
+    "hanzi": "下",
+    "sourceLabel": "下",
+    "aliases": [],
+    "pinyin": "xià",
+    "meaning": "dưới, phía dưới",
+    "partOfSpeech": "từ chỉ vị trí",
+    "topic": "Vị trí",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "小狗在桌子下。",
+      "pinyin": "Xiǎo gǒu zài zhuōzi xià.",
+      "meaning": "Chó con ở dưới bàn.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 116,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xia4"
+  },
+  {
+    "id": "hsk20-1-117",
+    "hanzi": "下午",
+    "sourceLabel": "下午",
+    "aliases": [],
+    "pinyin": "xiàwǔ",
+    "meaning": "buổi chiều",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-6"
+    ],
+    "example": {
+      "hanzi": "我下午回家。",
+      "pinyin": "Wǒ xiàwǔ huí jiā.",
+      "meaning": "Tôi về nhà buổi chiều.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 117,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xia4 wu3"
+  },
+  {
+    "id": "hsk20-1-118",
+    "hanzi": "下雨",
+    "sourceLabel": "下雨",
+    "aliases": [],
+    "pinyin": "xià yǔ",
+    "meaning": "có mưa, đổ mưa",
+    "partOfSpeech": "động từ",
+    "topic": "Động vật và đi lại",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-57"
+    ],
+    "example": {
+      "hanzi": "明天会下雨吗？",
+      "pinyin": "Míngtiān huì xià yǔ ma?",
+      "meaning": "Ngày mai có mưa không?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 118,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xia4 yu3"
+  },
+  {
+    "id": "hsk20-1-119",
+    "hanzi": "先生",
+    "sourceLabel": "先生",
+    "aliases": [],
+    "pinyin": "xiānsheng",
+    "meaning": "ông, ngài",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-80"
+    ],
+    "example": {
+      "hanzi": "王先生在家。",
+      "pinyin": "Wáng xiānsheng zài jiā.",
+      "meaning": "Ông Vương đang ở nhà.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 119,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xian1 sheng5"
+  },
+  {
+    "id": "hsk20-1-120",
+    "hanzi": "现在",
+    "sourceLabel": "现在",
+    "aliases": [],
+    "pinyin": "xiànzài",
+    "meaning": "bây giờ, hiện tại",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-41"
+    ],
+    "example": {
+      "hanzi": "你现在在哪儿？",
+      "pinyin": "Nǐ xiànzài zài nǎr?",
+      "meaning": "Bây giờ bạn ở đâu?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 120,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xian4 zai4"
+  },
+  {
+    "id": "hsk20-1-121",
+    "hanzi": "想",
+    "sourceLabel": "想",
+    "aliases": [],
+    "pinyin": "xiǎng",
+    "meaning": "muốn",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-1"
+    ],
+    "example": {
+      "hanzi": "我想喝茶。",
+      "pinyin": "Wǒ xiǎng hē chá.",
+      "meaning": "Tôi muốn uống trà.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 121,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xiang3"
+  },
+  {
+    "id": "hsk20-1-122",
+    "hanzi": "小",
+    "sourceLabel": "小",
+    "aliases": [],
+    "pinyin": "xiǎo",
+    "meaning": "nhỏ, bé",
+    "partOfSpeech": "tính từ",
+    "topic": "Miêu tả",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-16"
+    ],
+    "example": {
+      "hanzi": "这个杯子很小。",
+      "pinyin": "Zhège bēizi hěn xiǎo.",
+      "meaning": "Cốc này rất nhỏ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 122,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xiao3"
+  },
+  {
+    "id": "hsk20-1-123",
+    "hanzi": "小姐",
+    "sourceLabel": "小姐",
+    "aliases": [],
+    "pinyin": "xiǎojiě",
+    "meaning": "cô",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-58"
+    ],
+    "example": {
+      "hanzi": "李小姐是老师。",
+      "pinyin": "Lǐ xiǎojiě shì lǎoshī.",
+      "meaning": "Cô Lý là giáo viên.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 123,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xiao3 jie3"
+  },
+  {
+    "id": "hsk20-1-124",
+    "hanzi": "些",
+    "sourceLabel": "些",
+    "aliases": [],
+    "pinyin": "xiē",
+    "meaning": "một ít, một vài",
+    "partOfSpeech": "lượng từ",
+    "topic": "Số và lượng",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-62"
+    ],
+    "example": {
+      "hanzi": "我买了一些水果。",
+      "pinyin": "Wǒ mǎi le yìxiē shuǐguǒ.",
+      "meaning": "Tôi đã mua một ít trái cây.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 124,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xie1"
+  },
+  {
+    "id": "hsk20-1-125",
+    "hanzi": "写",
+    "sourceLabel": "写",
+    "aliases": [],
+    "pinyin": "xiě",
+    "meaning": "viết",
+    "partOfSpeech": "động từ",
+    "topic": "Học tập",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-153"
+    ],
+    "example": {
+      "hanzi": "我会写汉字。",
+      "pinyin": "Wǒ huì xiě Hànzì.",
+      "meaning": "Tôi biết viết chữ Hán.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 125,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xie3"
+  },
+  {
+    "id": "hsk20-1-126",
+    "hanzi": "谢谢",
+    "sourceLabel": "谢谢",
+    "aliases": [],
+    "pinyin": "xièxie",
+    "meaning": "cảm ơn",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      2
+    ],
+    "legacyIds": [
+      "v-2-109"
+    ],
+    "example": {
+      "hanzi": "谢谢你！",
+      "pinyin": "Xièxie nǐ!",
+      "meaning": "Cảm ơn bạn!",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 126,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd1683e568d19",
+      "filename": "CHN113 - 第02课 - session 08 - 14 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xie4 xie5"
+  },
+  {
+    "id": "hsk20-1-127",
+    "hanzi": "星期",
+    "sourceLabel": "星期",
+    "aliases": [],
+    "pinyin": "xīngqī",
+    "meaning": "tuần, thứ",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-163"
+    ],
+    "example": {
+      "hanzi": "今天星期一。",
+      "pinyin": "Jīntiān xīngqī yī.",
+      "meaning": "Hôm nay là thứ hai.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 127,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xing1 qi1"
+  },
+  {
+    "id": "hsk20-1-128",
+    "hanzi": "学生",
+    "sourceLabel": "学生",
+    "aliases": [],
+    "pinyin": "xuésheng",
+    "meaning": "học sinh",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-120"
+    ],
+    "example": {
+      "hanzi": "我们都是学生。",
+      "pinyin": "Wǒmen dōu shì xuésheng.",
+      "meaning": "Chúng tôi đều là học sinh.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 128,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xue2 sheng5"
+  },
+  {
+    "id": "hsk20-1-129",
+    "hanzi": "学习",
+    "sourceLabel": "学习",
+    "aliases": [],
+    "pinyin": "xuéxí",
+    "meaning": "học, học tập",
+    "partOfSpeech": "động từ",
+    "topic": "Học tập",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "他在学习汉语。",
+      "pinyin": "Tā zài xuéxí Hànyǔ.",
+      "meaning": "Anh ấy đang học tiếng Trung.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 3,
+      "entry": 129,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xue2 xi2"
+  },
+  {
+    "id": "hsk20-1-130",
+    "hanzi": "学校",
+    "sourceLabel": "学校",
+    "aliases": [],
+    "pinyin": "xuéxiào",
+    "meaning": "trường học",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-167"
+    ],
+    "example": {
+      "hanzi": "学校在医院前面。",
+      "pinyin": "Xuéxiào zài yīyuàn qiánmiàn.",
+      "meaning": "Trường ở phía trước bệnh viện.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 130,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "xue2 xiao4"
+  },
+  {
+    "id": "hsk20-1-131",
+    "hanzi": "一",
+    "sourceLabel": "一",
+    "aliases": [],
+    "pinyin": "yī",
+    "meaning": "một",
+    "partOfSpeech": "số từ",
+    "topic": "Số và lượng",
+    "lessonIds": [],
+    "legacyIds": [],
+    "example": {
+      "hanzi": "我有一本书。",
+      "pinyin": "Wǒ yǒu yì běn shū.",
+      "meaning": "Tôi có một quyển sách.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 131,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "filename": "Biên soạn bổ sung; danh sách mục từ đối chiếu CTI"
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "yi1"
+  },
+  {
+    "id": "hsk20-1-132",
+    "hanzi": "衣服",
+    "sourceLabel": "衣服",
+    "aliases": [],
+    "pinyin": "yīfu",
+    "meaning": "quần áo",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      14
+    ],
+    "legacyIds": [
+      "v-14-86"
+    ],
+    "example": {
+      "hanzi": "这些衣服很漂亮。",
+      "pinyin": "Zhèxiē yīfu hěn piàoliang.",
+      "meaning": "Những bộ quần áo này rất đẹp.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 132,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s5e408529e796",
+      "filename": "CHN113 - 第14课 - session 50 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "yi1 fu5"
+  },
+  {
+    "id": "hsk20-1-133",
+    "hanzi": "医生",
+    "sourceLabel": "医生",
+    "aliases": [],
+    "pinyin": "yīshēng",
+    "meaning": "bác sĩ",
+    "partOfSpeech": "danh từ",
+    "topic": "Người và gia đình",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-26"
+    ],
+    "example": {
+      "hanzi": "我妈妈是医生。",
+      "pinyin": "Wǒ māma shì yīshēng.",
+      "meaning": "Mẹ tôi là bác sĩ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 133,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "yi1 sheng1"
+  },
+  {
+    "id": "hsk20-1-134",
+    "hanzi": "医院",
+    "sourceLabel": "医院",
+    "aliases": [],
+    "pinyin": "yīyuàn",
+    "meaning": "bệnh viện",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-25"
+    ],
+    "example": {
+      "hanzi": "他在医院工作。",
+      "pinyin": "Tā zài yīyuàn gōngzuò.",
+      "meaning": "Anh ấy làm việc ở bệnh viện.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 134,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "yi1 yuan4"
+  },
+  {
+    "id": "hsk20-1-135",
+    "hanzi": "椅子",
+    "sourceLabel": "椅子",
+    "aliases": [],
+    "pinyin": "yǐzi",
+    "meaning": "ghế dựa",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-21"
+    ],
+    "example": {
+      "hanzi": "这儿有一个椅子。",
+      "pinyin": "Zhèr yǒu yí ge yǐzi.",
+      "meaning": "Ở đây có một cái ghế.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 135,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "yi3 zi5"
+  },
+  {
+    "id": "hsk20-1-136",
+    "hanzi": "有",
+    "sourceLabel": "有",
+    "aliases": [],
+    "pinyin": "yǒu",
+    "meaning": "có",
+    "partOfSpeech": "động từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      5
+    ],
+    "legacyIds": [
+      "v-5-137"
+    ],
+    "example": {
+      "hanzi": "我有一个女儿。",
+      "pinyin": "Wǒ yǒu yí ge nǚ'ér.",
+      "meaning": "Tôi có một con gái.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 136,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s905cd62a358a",
+      "filename": "CHN113 - 第05课 - session 19 - 20 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "you3"
+  },
+  {
+    "id": "hsk20-1-137",
+    "hanzi": "月",
+    "sourceLabel": "月",
+    "aliases": [],
+    "pinyin": "yuè",
+    "meaning": "tháng",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-162"
+    ],
+    "example": {
+      "hanzi": "今天是三月八日。",
+      "pinyin": "Jīntiān shì sān yuè bā rì.",
+      "meaning": "Hôm nay là ngày tám tháng ba.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 137,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "yue4"
+  },
+  {
+    "id": "hsk20-1-138",
+    "hanzi": "再见",
+    "sourceLabel": "再见",
+    "aliases": [],
+    "pinyin": "zàijiàn",
+    "meaning": "tạm biệt",
+    "partOfSpeech": "cụm giao tiếp",
+    "topic": "Giao tiếp",
+    "lessonIds": [
+      2
+    ],
+    "legacyIds": [
+      "v-2-112"
+    ],
+    "example": {
+      "hanzi": "老师，再见！",
+      "pinyin": "Lǎoshī, zàijiàn!",
+      "meaning": "Tạm biệt thầy cô!",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 138,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sd1683e568d19",
+      "filename": "CHN113 - 第02课 - session 08 - 14 slides.pptx",
+      "slide": 3,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zai4 jian4"
+  },
+  {
+    "id": "hsk20-1-139",
+    "hanzi": "在",
+    "sourceLabel": "在",
+    "aliases": [],
+    "pinyin": "zài",
+    "meaning": "ở",
+    "partOfSpeech": "động từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      9
+    ],
+    "legacyIds": [
+      "v-9-18"
+    ],
+    "example": {
+      "hanzi": "他在家。",
+      "pinyin": "Tā zài jiā.",
+      "meaning": "Anh ấy ở nhà.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 139,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s52b7b85ddf57",
+      "filename": "CHN113 - 第09课 - session 34 - 26 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zai4"
+  },
+  {
+    "id": "hsk20-1-140",
+    "hanzi": "怎么",
+    "sourceLabel": "怎么",
+    "aliases": [],
+    "pinyin": "zěnme",
+    "meaning": "như thế nào",
+    "partOfSpeech": "đại từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-156"
+    ],
+    "example": {
+      "hanzi": "这个字怎么读？",
+      "pinyin": "Zhège zì zěnme dú?",
+      "meaning": "Chữ này đọc thế nào?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 140,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zen3 me5"
+  },
+  {
+    "id": "hsk20-1-141",
+    "hanzi": "怎么样",
+    "sourceLabel": "怎么样",
+    "aliases": [],
+    "pinyin": "zěnmeyàng",
+    "meaning": "như thế nào",
+    "partOfSpeech": "đại từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      12
+    ],
+    "legacyIds": [
+      "v-12-54"
+    ],
+    "example": {
+      "hanzi": "你身体怎么样？",
+      "pinyin": "Nǐ shēntǐ zěnmeyàng?",
+      "meaning": "Sức khỏe bạn thế nào?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 141,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "sc7e8c2f6caf6",
+      "filename": "CHN113 - 第12课 - session 43 - 24 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zen3 me5 yang4"
+  },
+  {
+    "id": "hsk20-1-142",
+    "hanzi": "这",
+    "sourceLabel": "这（这儿）",
+    "aliases": [
+      "这儿"
+    ],
+    "pinyin": "zhè",
+    "meaning": "đây, này",
+    "partOfSpeech": "đại từ",
+    "topic": "Ngữ pháp",
+    "lessonIds": [
+      8
+    ],
+    "legacyIds": [
+      "v-8-11"
+    ],
+    "example": {
+      "hanzi": "这是我的电脑。",
+      "pinyin": "Zhè shì wǒ de diànnǎo.",
+      "meaning": "Đây là máy tính của tôi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 142,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s71d7c3b993aa",
+      "filename": "CHN113 - 第08课 - session 29 - 23 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zhe4"
+  },
+  {
+    "id": "hsk20-1-143",
+    "hanzi": "中国",
+    "sourceLabel": "中国",
+    "aliases": [],
+    "pinyin": "Zhōngguó",
+    "meaning": "Trung Quốc",
+    "partOfSpeech": "danh từ",
+    "topic": "Địa điểm",
+    "lessonIds": [
+      3
+    ],
+    "legacyIds": [
+      "v-3-123"
+    ],
+    "example": {
+      "hanzi": "我想去中国。",
+      "pinyin": "Wǒ xiǎng qù Zhōngguó.",
+      "meaning": "Tôi muốn đến Trung Quốc.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 143,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s30516d82c5d0",
+      "filename": "CHN113 - 第03课 - session 10 - 21 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zhong1 guo2"
+  },
+  {
+    "id": "hsk20-1-144",
+    "hanzi": "中午",
+    "sourceLabel": "中午",
+    "aliases": [],
+    "pinyin": "zhōngwǔ",
+    "meaning": "buổi trưa",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-44"
+    ],
+    "example": {
+      "hanzi": "我中午十二点吃饭。",
+      "pinyin": "Wǒ zhōngwǔ shí'èr diǎn chī fàn.",
+      "meaning": "Tôi ăn cơm trưa lúc mười hai giờ.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 144,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zhong1 wu3"
+  },
+  {
+    "id": "hsk20-1-145",
+    "hanzi": "住",
+    "sourceLabel": "住",
+    "aliases": [],
+    "pinyin": "zhù",
+    "meaning": "ở",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      11
+    ],
+    "legacyIds": [
+      "v-11-50"
+    ],
+    "example": {
+      "hanzi": "你住在哪儿？",
+      "pinyin": "Nǐ zhù zài nǎr?",
+      "meaning": "Bạn sống ở đâu?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 145,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s44336c99992b",
+      "filename": "CHN113 - 第11课 - session 40 - 22 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zhu4"
+  },
+  {
+    "id": "hsk20-1-146",
+    "hanzi": "桌子",
+    "sourceLabel": "桌子",
+    "aliases": [],
+    "pinyin": "zhuōzi",
+    "meaning": "bàn",
+    "partOfSpeech": "danh từ",
+    "topic": "Đồ vật",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-28"
+    ],
+    "example": {
+      "hanzi": "桌子上有水。",
+      "pinyin": "Zhuōzi shàng yǒu shuǐ.",
+      "meaning": "Trên bàn có nước.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 146,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zhuo1 zi5"
+  },
+  {
+    "id": "hsk20-1-147",
+    "hanzi": "字",
+    "sourceLabel": "字",
+    "aliases": [],
+    "pinyin": "zì",
+    "meaning": "chữ",
+    "partOfSpeech": "danh từ",
+    "topic": "Học tập",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-155"
+    ],
+    "example": {
+      "hanzi": "我会写这个字。",
+      "pinyin": "Wǒ huì xiě zhège zì.",
+      "meaning": "Tôi biết viết chữ này.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 147,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zi4"
+  },
+  {
+    "id": "hsk20-1-148",
+    "hanzi": "昨天",
+    "sourceLabel": "昨天",
+    "aliases": [],
+    "pinyin": "zuótiān",
+    "meaning": "hôm qua",
+    "partOfSpeech": "danh từ",
+    "topic": "Thời gian",
+    "lessonIds": [
+      7
+    ],
+    "legacyIds": [
+      "v-7-164"
+    ],
+    "example": {
+      "hanzi": "昨天我去看电影了。",
+      "pinyin": "Zuótiān wǒ qù kàn diànyǐng le.",
+      "meaning": "Hôm qua tôi đã đi xem phim.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 148,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s791f8f50fcf4",
+      "filename": "CHN113- 第07课 - session 25 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zuo2 tian1"
+  },
+  {
+    "id": "hsk20-1-149",
+    "hanzi": "坐",
+    "sourceLabel": "坐",
+    "aliases": [],
+    "pinyin": "zuò",
+    "meaning": "ngồi",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      10
+    ],
+    "legacyIds": [
+      "v-10-38"
+    ],
+    "example": {
+      "hanzi": "请坐。",
+      "pinyin": "Qǐng zuò.",
+      "meaning": "Mời ngồi.",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 149,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "s2fde2f0653e3",
+      "filename": "CHN113 - 第10课 - session 37 - 25 slides.pptx",
+      "slide": 6,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zuo4"
+  },
+  {
+    "id": "hsk20-1-150",
+    "hanzi": "做",
+    "sourceLabel": "做",
+    "aliases": [],
+    "pinyin": "zuò",
+    "meaning": "làm",
+    "partOfSpeech": "động từ",
+    "topic": "Hoạt động",
+    "lessonIds": [
+      6
+    ],
+    "legacyIds": [
+      "v-6-152"
+    ],
+    "example": {
+      "hanzi": "你会做中国菜吗？",
+      "pinyin": "Nǐ huì zuò Zhōngguó cài ma?",
+      "meaning": "Bạn có biết nấu món Trung Quốc không?",
+      "origin": "supplemental_practice"
+    },
+    "audio": {
+      "kind": "browser_tts",
+      "label": "Giọng tổng hợp của trình duyệt, không phải bản thu giáo trình"
+    },
+    "source": {
+      "url": "https://www.chinesetest.cn/userfiles/file/cihui.pdf",
+      "page": 4,
+      "entry": 150,
+      "sha256": "58471dfd0803281a3a6f85f8cc64360d22d38cfd75880e1c096c2f631b88501b"
+    },
+    "pronunciationSource": {
+      "id": "se1b60c7f9e27",
+      "filename": "CHN113 - 第06课 - session 22 - 21 slides.pptx",
+      "slide": 5,
+      "page": null
+    },
+    "status": "verified",
+    "edition": "HSK 2.0 — historical 150-entry CTI list",
+    "pinyinNumbered": "zuo4"
+  }
+]
