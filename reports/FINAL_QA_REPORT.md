@@ -7,7 +7,7 @@
 - Playwright desktop + iPhone-sized Chromium: 66/68 passed initially. Two failures were an incorrect matching-row test expectation (expected 6, actual correct result 3). After correcting that assertion, both affected cases passed. All 68 distinct cases have passing evidence; no claim of a single all-green 68-case rerun.
 - 52 game cases cover all 11 games, score behavior, completion/replay, pause, timer, IME, rapid input and persistence. Spelling Bee TTS is mocked for deterministic game state tests; this does not prove speaker output on every device.
 - Speaking capture/playback tested with Chromium fake microphone input. Physical microphone quality and pronunciation recognition are not tested or claimed.
-- Production build passed. Vite reports a >500 kB raw main chunk; gzip about137 kB. Media is loaded on demand.
+- Production build passed. Vite reports a >500 kB raw main chunk; gzip about195 kB in the standalone public build (137 kB main plus separate vendor/content chunks in the local pages-mode build). Media is loaded on demand.
 - All156 unique bundled MP3s decoded through Chromium AudioContext, with nonzero waveform; FE audio clock advanced during actual playback. Details in public-runtime-validation.json.
 - Production route render/reload checks, image checks on visited routes, mobile overflow, game start: see runtime JSON.
 - Screenshots captured for dashboard desktop/mobile, flashcard, matching/result, writing, speaking, FE, Quiz2, libraries, lobby and gameplay. Visual inspection led to fixes for mobile menu and game HUD contrast.

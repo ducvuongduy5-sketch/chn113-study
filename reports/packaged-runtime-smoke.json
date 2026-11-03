@@ -1,0 +1,25 @@
+{
+  "base": "http://127.0.0.1:5192/chn113-study/",
+  "total": 2,
+  "failed": 0,
+  "playback": {
+    "time": 0.463326,
+    "paused": false
+  },
+  "overflow": false,
+  "errors": [],
+  "files": [
+    {
+      "url": "/learning-assets/original-media/s64554fc92d9a.mp3",
+      "duration": 153.61197916666666,
+      "peak": 0.38980424404144287,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "/learning-assets/original-media/sbb3e8311e297.mp3",
+      "duration": 138.09597916666667,
+      "peak": 0.3670337200164795,
+      "type": "audio/mpeg"
+    }
+  ]
+}
