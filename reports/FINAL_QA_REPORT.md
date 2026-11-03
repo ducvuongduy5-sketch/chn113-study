@@ -25,3 +25,5 @@ HSK canonical150 retained and tested against the historical HSK2.0 reference. Qu
 Progress is browser-local; recordings remain in-session unless downloaded. No paid AI grading/backend/API key. TTS depends on installed/browser Chinese voices. Full PDFs/PPTXs and extraction intermediates stay local. Public runtime media approximately320MB; user confirmed redistribution permission.
 
 Deployment status and live proof are recorded separately after GitHub Pages completes.
+
+Live verification: https://ducvuongduy5-sketch.github.io/chn113-study/ — GitHub Pages built successfully. HTTPS route render/reload, two original audio decodes, actual FE playback clock, mobile overflow and game Start passed; no page errors. See live-deployment-smoke.json. Local full-media validation remains156/156. The first live playback probe sampled too soon (600 ms); waiting for buffered playback confirmed the clock advances. No application workaround was needed.
